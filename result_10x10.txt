@@ -1,0 +1,2103 @@
+Original entropy coef: 0.05
+New entropy coef: 0.2
+  graph_pool = torch.sparse.FloatTensor(idx, elem,
+Ep   10 | Reward: -551.50 | Loss: -0.2726 | EntCoef: 0.1998
+Ep   20 | Reward: -546.75 | Loss: -0.1958 | EntCoef: 0.1996
+Ep   30 | Reward: -480.25 | Loss: -0.1686 | EntCoef: 0.1994
+Ep   40 | Reward: -443.75 | Loss: -0.2795 | EntCoef: 0.1992
+Ep   50 | Reward: -444.00 | Loss: -0.2427 | EntCoef: 0.1990
+Ep   60 | Reward: -540.00 | Loss: -0.3208 | EntCoef: 0.1988
+Ep   70 | Reward: -452.75 | Loss: -0.2069 | EntCoef: 0.1986
+Ep   80 | Reward: -524.75 | Loss: -0.2189 | EntCoef: 0.1984
+Ep   90 | Reward: -405.75 | Loss: -0.1680 | EntCoef: 0.1982
+Ep  100 | Reward: -523.25 | Loss: -0.2606 | EntCoef: 0.1980
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1057.80 (NEW BEST! ⭐)
+Ep  110 | Reward: -445.75 | Loss: -0.2674 | EntCoef: 0.1978
+Ep  120 | Reward: -394.25 | Loss: -0.2685 | EntCoef: 0.1976
+Ep  130 | Reward: -513.75 | Loss: -0.2194 | EntCoef: 0.1974
+Ep  140 | Reward: -444.00 | Loss: -0.3316 | EntCoef: 0.1972
+Ep  150 | Reward: -422.00 | Loss: -0.2527 | EntCoef: 0.1970
+Ep  160 | Reward: -561.75 | Loss: -0.2543 | EntCoef: 0.1968
+Ep  170 | Reward: -486.75 | Loss: -0.2550 | EntCoef: 0.1966
+Ep  180 | Reward: -519.00 | Loss: -0.3106 | EntCoef: 0.1964
+Ep  190 | Reward: -474.75 | Loss: -0.2177 | EntCoef: 0.1962
+Ep  200 | Reward: -456.00 | Loss: -0.2403 | EntCoef: 0.1960
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1019.30 (NEW BEST! ⭐)
+Ep  210 | Reward: -452.50 | Loss: -0.2391 | EntCoef: 0.1958
+Ep  220 | Reward: -501.75 | Loss: -0.2225 | EntCoef: 0.1956
+Ep  230 | Reward: -533.75 | Loss: -0.3418 | EntCoef: 0.1954
+Ep  240 | Reward: -607.00 | Loss: -0.3035 | EntCoef: 0.1952
+Ep  250 | Reward: -436.50 | Loss: -0.2642 | EntCoef: 0.1950
+Ep  260 | Reward: -490.50 | Loss: -0.3131 | EntCoef: 0.1948
+Ep  270 | Reward: -576.50 | Loss: -0.2808 | EntCoef: 0.1946
+Ep  280 | Reward: -583.75 | Loss: -0.2440 | EntCoef: 0.1944
+Ep  290 | Reward: -504.50 | Loss: -0.2912 | EntCoef: 0.1942
+Ep  300 | Reward: -572.75 | Loss: -0.3421 | EntCoef: 0.1940
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1074.10 (best: 1019.30)
+Ep  310 | Reward: -455.25 | Loss: -0.2800 | EntCoef: 0.1938
+Ep  320 | Reward: -551.00 | Loss: -0.2163 | EntCoef: 0.1936
+Ep  330 | Reward: -583.25 | Loss: -0.2158 | EntCoef: 0.1934
+Ep  340 | Reward: -549.50 | Loss: -0.3173 | EntCoef: 0.1932
+Ep  350 | Reward: -495.25 | Loss: -0.2813 | EntCoef: 0.1930
+Ep  360 | Reward: -466.75 | Loss: -0.2092 | EntCoef: 0.1928
+Ep  370 | Reward: -514.00 | Loss: -0.2736 | EntCoef: 0.1926
+Ep  380 | Reward: -401.50 | Loss: -0.2550 | EntCoef: 0.1924
+Ep  390 | Reward: -561.75 | Loss: -0.2189 | EntCoef: 0.1922
+Ep  400 | Reward: -540.50 | Loss: -0.2951 | EntCoef: 0.1920
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1128.20 (best: 1019.30)
+Ep  410 | Reward: -407.50 | Loss: -0.2565 | EntCoef: 0.1918
+Ep  420 | Reward: -427.50 | Loss: -0.2468 | EntCoef: 0.1916
+Ep  430 | Reward: -461.50 | Loss: -0.3243 | EntCoef: 0.1914
+Ep  440 | Reward: -602.25 | Loss: -0.2950 | EntCoef: 0.1912
+Ep  450 | Reward: -493.25 | Loss: -0.3411 | EntCoef: 0.1910
+Ep  460 | Reward: -505.50 | Loss: -0.3438 | EntCoef: 0.1908
+Ep  470 | Reward: -500.25 | Loss: -0.2397 | EntCoef: 0.1906
+Ep  480 | Reward: -477.25 | Loss: -0.3384 | EntCoef: 0.1904
+Ep  490 | Reward: -521.50 | Loss: -0.2450 | EntCoef: 0.1902
+Ep  500 | Reward: -458.75 | Loss: -0.2717 | EntCoef: 0.1900
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1142.20 (best: 1019.30)
+Ep  510 | Reward: -444.50 | Loss: -0.1940 | EntCoef: 0.1898
+Ep  520 | Reward: -471.75 | Loss: -0.3360 | EntCoef: 0.1896
+Ep  530 | Reward: -466.50 | Loss: -0.2531 | EntCoef: 0.1894
+Ep  540 | Reward: -489.00 | Loss: -0.2532 | EntCoef: 0.1892
+Ep  550 | Reward: -521.00 | Loss: -0.2545 | EntCoef: 0.1890
+Ep  560 | Reward: -481.50 | Loss: -0.3469 | EntCoef: 0.1888
+Ep  570 | Reward: -482.75 | Loss: -0.2272 | EntCoef: 0.1886
+Ep  580 | Reward: -449.00 | Loss: -0.2964 | EntCoef: 0.1884
+Ep  590 | Reward: -426.00 | Loss: -0.2624 | EntCoef: 0.1882
+Ep  600 | Reward: -519.00 | Loss: -0.3043 | EntCoef: 0.1880
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1028.20 (best: 1019.30)
+Ep  610 | Reward: -546.75 | Loss: -0.2213 | EntCoef: 0.1878
+Ep  620 | Reward: -518.25 | Loss: -0.1965 | EntCoef: 0.1876
+Ep  630 | Reward: -465.25 | Loss: -0.2287 | EntCoef: 0.1874
+Ep  640 | Reward: -529.75 | Loss: -0.2497 | EntCoef: 0.1872
+Ep  650 | Reward: -497.50 | Loss: -0.3047 | EntCoef: 0.1870
+Ep  660 | Reward: -427.00 | Loss: -0.2972 | EntCoef: 0.1868
+Ep  670 | Reward: -600.25 | Loss: -0.2371 | EntCoef: 0.1866
+Ep  680 | Reward: -479.00 | Loss: -0.1731 | EntCoef: 0.1864
+Ep  690 | Reward: -561.00 | Loss: -0.2834 | EntCoef: 0.1862
+Ep  700 | Reward: -512.00 | Loss: -0.3087 | EntCoef: 0.1860
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1074.90 (best: 1019.30)
+Ep  710 | Reward: -494.00 | Loss: -0.2459 | EntCoef: 0.1858
+Ep  720 | Reward: -583.00 | Loss: -0.2436 | EntCoef: 0.1856
+Ep  730 | Reward: -467.25 | Loss: -0.1638 | EntCoef: 0.1854
+Ep  740 | Reward: -522.50 | Loss: -0.1876 | EntCoef: 0.1852
+Ep  750 | Reward: -609.50 | Loss: -0.2170 | EntCoef: 0.1850
+Ep  760 | Reward: -558.50 | Loss: -0.2986 | EntCoef: 0.1848
+Ep  770 | Reward: -527.00 | Loss: -0.2767 | EntCoef: 0.1846
+Ep  780 | Reward: -421.50 | Loss: -0.2880 | EntCoef: 0.1844
+Ep  790 | Reward: -504.25 | Loss: -0.3458 | EntCoef: 0.1842
+Ep  800 | Reward: -493.50 | Loss: -0.2687 | EntCoef: 0.1840
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1181.40 (best: 1019.30)
+Ep  810 | Reward: -492.25 | Loss: -0.2675 | EntCoef: 0.1838
+Ep  820 | Reward: -460.25 | Loss: -0.1542 | EntCoef: 0.1836
+Ep  830 | Reward: -517.50 | Loss: -0.3260 | EntCoef: 0.1834
+Ep  840 | Reward: -472.00 | Loss: -0.3228 | EntCoef: 0.1832
+Ep  850 | Reward: -487.25 | Loss: -0.3100 | EntCoef: 0.1830
+Ep  860 | Reward: -504.25 | Loss: -0.1694 | EntCoef: 0.1828
+Ep  870 | Reward: -485.00 | Loss: -0.1555 | EntCoef: 0.1826
+Ep  880 | Reward: -415.00 | Loss: -0.2324 | EntCoef: 0.1824
+Ep  890 | Reward: -537.25 | Loss: -0.1705 | EntCoef: 0.1822
+Ep  900 | Reward: -568.00 | Loss: -0.2663 | EntCoef: 0.1820
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1153.00 (best: 1019.30)
+Ep  910 | Reward: -562.00 | Loss: -0.2433 | EntCoef: 0.1818
+Ep  920 | Reward: -488.00 | Loss: -0.2368 | EntCoef: 0.1816
+Ep  930 | Reward: -607.25 | Loss: -0.2169 | EntCoef: 0.1814
+Ep  940 | Reward: -521.75 | Loss: -0.2858 | EntCoef: 0.1812
+Ep  950 | Reward: -589.25 | Loss: -0.2749 | EntCoef: 0.1810
+Ep  960 | Reward: -497.50 | Loss: -0.3036 | EntCoef: 0.1808
+Ep  970 | Reward: -483.75 | Loss: -0.1676 | EntCoef: 0.1806
+Ep  980 | Reward: -556.75 | Loss: -0.2696 | EntCoef: 0.1804
+Ep  990 | Reward: -523.50 | Loss: -0.2632 | EntCoef: 0.1802
+Ep 1000 | Reward: -492.75 | Loss: -0.1566 | EntCoef: 0.1800
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1211.10 (best: 1019.30)
+Ep 1010 | Reward: -484.50 | Loss: -0.2383 | EntCoef: 0.1798
+Ep 1020 | Reward: -587.75 | Loss: -0.3221 | EntCoef: 0.1796
+Ep 1030 | Reward: -562.50 | Loss: -0.2614 | EntCoef: 0.1794
+Ep 1040 | Reward: -406.75 | Loss: -0.1558 | EntCoef: 0.1792
+Ep 1050 | Reward: -507.00 | Loss: -0.2622 | EntCoef: 0.1790
+Ep 1060 | Reward: -494.00 | Loss: -0.2504 | EntCoef: 0.1788
+Ep 1070 | Reward: -517.25 | Loss: -0.1997 | EntCoef: 0.1786
+Ep 1080 | Reward: -517.50 | Loss: -0.2300 | EntCoef: 0.1784
+Ep 1090 | Reward: -528.75 | Loss: -0.2383 | EntCoef: 0.1782
+Ep 1100 | Reward: -507.75 | Loss: -0.1787 | EntCoef: 0.1780
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1010.50 (NEW BEST! ⭐)
+Ep 1110 | Reward: -500.75 | Loss: -0.2522 | EntCoef: 0.1778
+Ep 1120 | Reward: -541.50 | Loss: -0.2500 | EntCoef: 0.1776
+Ep 1130 | Reward: -555.25 | Loss: -0.2772 | EntCoef: 0.1774
+Ep 1140 | Reward: -510.00 | Loss: -0.2953 | EntCoef: 0.1772
+Ep 1150 | Reward: -525.50 | Loss: -0.2043 | EntCoef: 0.1770
+Ep 1160 | Reward: -510.75 | Loss: -0.2342 | EntCoef: 0.1768
+Ep 1170 | Reward: -434.50 | Loss: -0.1931 | EntCoef: 0.1766
+Ep 1180 | Reward: -596.25 | Loss: -0.2374 | EntCoef: 0.1764
+Ep 1190 | Reward: -528.50 | Loss: -0.1803 | EntCoef: 0.1762
+Ep 1200 | Reward: -538.00 | Loss: -0.2586 | EntCoef: 0.1760
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 983.10 (NEW BEST! ⭐)
+Ep 1210 | Reward: -531.00 | Loss: -0.1865 | EntCoef: 0.1758
+Ep 1220 | Reward: -491.25 | Loss: -0.2432 | EntCoef: 0.1756
+Ep 1230 | Reward: -516.50 | Loss: -0.2608 | EntCoef: 0.1754
+Ep 1240 | Reward: -542.50 | Loss: -0.2807 | EntCoef: 0.1752
+Ep 1250 | Reward: -517.75 | Loss: -0.1816 | EntCoef: 0.1750
+Ep 1260 | Reward: -492.00 | Loss: -0.1421 | EntCoef: 0.1748
+Ep 1270 | Reward: -536.00 | Loss: -0.1780 | EntCoef: 0.1746
+Ep 1280 | Reward: -476.00 | Loss: -0.2644 | EntCoef: 0.1744
+Ep 1290 | Reward: -503.50 | Loss: -0.1528 | EntCoef: 0.1742
+Ep 1300 | Reward: -521.50 | Loss: -0.3124 | EntCoef: 0.1740
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 976.70 (NEW BEST! ⭐)
+Ep 1310 | Reward: -526.50 | Loss: -0.2825 | EntCoef: 0.1738
+Ep 1320 | Reward: -510.25 | Loss: -0.2967 | EntCoef: 0.1736
+Ep 1330 | Reward: -618.50 | Loss: -0.2688 | EntCoef: 0.1734
+Ep 1340 | Reward: -477.25 | Loss: -0.1779 | EntCoef: 0.1732
+Ep 1350 | Reward: -463.25 | Loss: -0.1942 | EntCoef: 0.1730
+Ep 1360 | Reward: -528.00 | Loss: -0.2546 | EntCoef: 0.1728
+Ep 1370 | Reward: -451.75 | Loss: -0.2884 | EntCoef: 0.1726
+Ep 1380 | Reward: -474.75 | Loss: -0.3060 | EntCoef: 0.1724
+Ep 1390 | Reward: -538.50 | Loss: -0.2108 | EntCoef: 0.1722
+Ep 1400 | Reward: -525.00 | Loss: -0.2703 | EntCoef: 0.1720
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1101.50 (best: 976.70)
+Ep 1410 | Reward: -482.25 | Loss: -0.1782 | EntCoef: 0.1718
+Ep 1420 | Reward: -511.50 | Loss: -0.2224 | EntCoef: 0.1716
+Ep 1430 | Reward: -416.25 | Loss: -0.1022 | EntCoef: 0.1714
+Ep 1440 | Reward: -442.50 | Loss: -0.1877 | EntCoef: 0.1712
+Ep 1450 | Reward: -436.75 | Loss: -0.2818 | EntCoef: 0.1710
+Ep 1460 | Reward: -497.25 | Loss: -0.2573 | EntCoef: 0.1708
+Ep 1470 | Reward: -518.75 | Loss: -0.2242 | EntCoef: 0.1706
+Ep 1480 | Reward: -522.50 | Loss: -0.1291 | EntCoef: 0.1704
+Ep 1490 | Reward: -535.25 | Loss: -0.1976 | EntCoef: 0.1702
+Ep 1500 | Reward: -495.75 | Loss: -0.2364 | EntCoef: 0.1700
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 983.10 (best: 976.70)
+Ep 1510 | Reward: -518.50 | Loss: -0.2984 | EntCoef: 0.1698
+Ep 1520 | Reward: -444.25 | Loss: -0.2028 | EntCoef: 0.1696
+Ep 1530 | Reward: -525.00 | Loss: -0.2571 | EntCoef: 0.1694
+Ep 1540 | Reward: -494.25 | Loss: -0.2239 | EntCoef: 0.1692
+Ep 1550 | Reward: -444.50 | Loss: -0.1655 | EntCoef: 0.1690
+Ep 1560 | Reward: -547.00 | Loss: -0.2182 | EntCoef: 0.1688
+Ep 1570 | Reward: -328.75 | Loss: -0.2029 | EntCoef: 0.1686
+Ep 1580 | Reward: -546.25 | Loss: -0.1421 | EntCoef: 0.1684
+Ep 1590 | Reward: -462.50 | Loss: -0.1509 | EntCoef: 0.1682
+Ep 1600 | Reward: -546.50 | Loss: -0.1220 | EntCoef: 0.1680
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 983.10 (best: 976.70)
+Ep 1610 | Reward: -466.50 | Loss: -0.2487 | EntCoef: 0.1678
+Ep 1620 | Reward: -530.00 | Loss: -0.2233 | EntCoef: 0.1676
+Ep 1630 | Reward: -585.25 | Loss: -0.1337 | EntCoef: 0.1674
+Ep 1640 | Reward: -483.00 | Loss: -0.2009 | EntCoef: 0.1672
+Ep 1650 | Reward: -478.50 | Loss: -0.1857 | EntCoef: 0.1670
+Ep 1660 | Reward: -495.75 | Loss: -0.3317 | EntCoef: 0.1668
+Ep 1670 | Reward: -602.75 | Loss: -0.2329 | EntCoef: 0.1666
+Ep 1680 | Reward: -501.50 | Loss: -0.2246 | EntCoef: 0.1664
+Ep 1690 | Reward: -474.25 | Loss: -0.2355 | EntCoef: 0.1662
+Ep 1700 | Reward: -540.25 | Loss: -0.2633 | EntCoef: 0.1660
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 990.60 (best: 976.70)
+Ep 1710 | Reward: -533.25 | Loss: -0.2097 | EntCoef: 0.1658
+Ep 1720 | Reward: -429.50 | Loss: -0.2889 | EntCoef: 0.1656
+Ep 1730 | Reward: -499.25 | Loss: -0.2239 | EntCoef: 0.1654
+Ep 1740 | Reward: -417.00 | Loss: 0.0460 | EntCoef: 0.1652
+Ep 1750 | Reward: -582.50 | Loss: -0.2912 | EntCoef: 0.1650
+Ep 1760 | Reward: -478.25 | Loss: -0.1174 | EntCoef: 0.1648
+Ep 1770 | Reward: -512.25 | Loss: -0.1429 | EntCoef: 0.1646
+Ep 1780 | Reward: -493.50 | Loss: -0.2876 | EntCoef: 0.1644
+Ep 1790 | Reward: -499.75 | Loss: -0.2659 | EntCoef: 0.1642
+Ep 1800 | Reward: -526.25 | Loss: -0.2748 | EntCoef: 0.1640
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 983.20 (best: 976.70)
+Ep 1810 | Reward: -533.25 | Loss: -0.1874 | EntCoef: 0.1638
+Ep 1820 | Reward: -535.75 | Loss: -0.2974 | EntCoef: 0.1636
+Ep 1830 | Reward: -572.50 | Loss: -0.1910 | EntCoef: 0.1634
+Ep 1840 | Reward: -494.25 | Loss: -0.2299 | EntCoef: 0.1632
+Ep 1850 | Reward: -618.00 | Loss: -0.1100 | EntCoef: 0.1630
+Ep 1860 | Reward: -476.00 | Loss: -0.2468 | EntCoef: 0.1628
+Ep 1870 | Reward: -411.50 | Loss: -0.1507 | EntCoef: 0.1626
+Ep 1880 | Reward: -455.00 | Loss: -0.3141 | EntCoef: 0.1624
+Ep 1890 | Reward: -467.50 | Loss: -0.2097 | EntCoef: 0.1622
+Ep 1900 | Reward: -480.75 | Loss: -0.1904 | EntCoef: 0.1620
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1070.60 (best: 976.70)
+Ep 1910 | Reward: -476.50 | Loss: -0.1929 | EntCoef: 0.1618
+Ep 1920 | Reward: -453.50 | Loss: -0.2041 | EntCoef: 0.1616
+Ep 1930 | Reward: -594.75 | Loss: -0.2319 | EntCoef: 0.1614
+Ep 1940 | Reward: -573.50 | Loss: -0.2812 | EntCoef: 0.1612
+Ep 1950 | Reward: -525.00 | Loss: -0.2431 | EntCoef: 0.1610
+Ep 1960 | Reward: -446.75 | Loss: -0.2793 | EntCoef: 0.1608
+Ep 1970 | Reward: -499.00 | Loss: -0.2856 | EntCoef: 0.1606
+Ep 1980 | Reward: -476.75 | Loss: -0.2943 | EntCoef: 0.1604
+Ep 1990 | Reward: -491.50 | Loss: -0.1997 | EntCoef: 0.1602
+Ep 2000 | Reward: -458.25 | Loss: -0.1670 | EntCoef: 0.1600
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1080.40 (best: 976.70)
+Ep 2010 | Reward: -486.00 | Loss: -0.1490 | EntCoef: 0.1598
+Ep 2020 | Reward: -489.50 | Loss: -0.2116 | EntCoef: 0.1596
+Ep 2030 | Reward: -437.50 | Loss: -0.2214 | EntCoef: 0.1594
+Ep 2040 | Reward: -487.25 | Loss: -0.2321 | EntCoef: 0.1592
+Ep 2050 | Reward: -497.25 | Loss: -0.1996 | EntCoef: 0.1590
+Ep 2060 | Reward: -506.75 | Loss: -0.1096 | EntCoef: 0.1588
+Ep 2070 | Reward: -475.75 | Loss: -0.2648 | EntCoef: 0.1586
+Ep 2080 | Reward: -471.00 | Loss: -0.0508 | EntCoef: 0.1584
+Ep 2090 | Reward: -466.25 | Loss: -0.2399 | EntCoef: 0.1582
+Ep 2100 | Reward: -487.75 | Loss: -0.1805 | EntCoef: 0.1580
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1046.50 (best: 976.70)
+Ep 2110 | Reward: -512.25 | Loss: -0.2644 | EntCoef: 0.1578
+Ep 2120 | Reward: -477.75 | Loss: -0.1916 | EntCoef: 0.1576
+Ep 2130 | Reward: -506.25 | Loss: -0.2640 | EntCoef: 0.1574
+Ep 2140 | Reward: -519.25 | Loss: -0.2329 | EntCoef: 0.1572
+Ep 2150 | Reward: -513.25 | Loss: -0.2512 | EntCoef: 0.1570
+Ep 2160 | Reward: -509.50 | Loss: -0.2499 | EntCoef: 0.1568
+Ep 2170 | Reward: -400.75 | Loss: -0.1294 | EntCoef: 0.1566
+Ep 2180 | Reward: -467.75 | Loss: -0.1672 | EntCoef: 0.1564
+Ep 2190 | Reward: -549.25 | Loss: -0.2506 | EntCoef: 0.1562
+Ep 2200 | Reward: -484.00 | Loss: -0.1572 | EntCoef: 0.1560
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1073.80 (best: 976.70)
+Ep 2210 | Reward: -489.00 | Loss: -0.0967 | EntCoef: 0.1558
+Ep 2220 | Reward: -419.75 | Loss: -0.2122 | EntCoef: 0.1556
+Ep 2230 | Reward: -448.25 | Loss: -0.2181 | EntCoef: 0.1554
+Ep 2240 | Reward: -527.50 | Loss: -0.2251 | EntCoef: 0.1552
+Ep 2250 | Reward: -457.50 | Loss: -0.2420 | EntCoef: 0.1550
+Ep 2260 | Reward: -580.25 | Loss: -0.2366 | EntCoef: 0.1548
+Ep 2270 | Reward: -595.00 | Loss: -0.2339 | EntCoef: 0.1546
+Ep 2280 | Reward: -516.75 | Loss: -0.1575 | EntCoef: 0.1544
+Ep 2290 | Reward: -573.50 | Loss: -0.2312 | EntCoef: 0.1542
+Ep 2300 | Reward: -456.00 | Loss: -0.2302 | EntCoef: 0.1540
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1058.00 (best: 976.70)
+Ep 2310 | Reward: -578.50 | Loss: -0.1627 | EntCoef: 0.1538
+Ep 2320 | Reward: -524.00 | Loss: -0.2605 | EntCoef: 0.1536
+Ep 2330 | Reward: -441.50 | Loss: -0.2297 | EntCoef: 0.1534
+Ep 2340 | Reward: -481.50 | Loss: -0.1977 | EntCoef: 0.1532
+Ep 2350 | Reward: -526.50 | Loss: -0.2594 | EntCoef: 0.1530
+Ep 2360 | Reward: -511.25 | Loss: -0.1311 | EntCoef: 0.1528
+Ep 2370 | Reward: -510.50 | Loss: -0.2159 | EntCoef: 0.1526
+Ep 2380 | Reward: -519.50 | Loss: -0.2519 | EntCoef: 0.1524
+Ep 2390 | Reward: -456.50 | Loss: -0.2158 | EntCoef: 0.1522
+Ep 2400 | Reward: -419.25 | Loss: -0.1563 | EntCoef: 0.1520
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 975.50 (NEW BEST! ⭐)
+Ep 2410 | Reward: -520.00 | Loss: -0.1114 | EntCoef: 0.1518
+Ep 2420 | Reward: -605.75 | Loss: -0.1547 | EntCoef: 0.1516
+Ep 2430 | Reward: -552.50 | Loss: -0.2153 | EntCoef: 0.1514
+Ep 2440 | Reward: -572.75 | Loss: -0.0987 | EntCoef: 0.1512
+Ep 2450 | Reward: -547.25 | Loss: -0.2544 | EntCoef: 0.1510
+Ep 2460 | Reward: -464.75 | Loss: -0.1033 | EntCoef: 0.1508
+Ep 2470 | Reward: -542.75 | Loss: -0.2293 | EntCoef: 0.1506
+Ep 2480 | Reward: -554.75 | Loss: -0.2122 | EntCoef: 0.1504
+Ep 2490 | Reward: -490.00 | Loss: -0.1762 | EntCoef: 0.1502
+Ep 2500 | Reward: -534.50 | Loss: -0.2266 | EntCoef: 0.1500
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1030.50 (best: 975.50)
+Ep 2510 | Reward: -577.25 | Loss: -0.1960 | EntCoef: 0.1498
+Ep 2520 | Reward: -465.75 | Loss: -0.1265 | EntCoef: 0.1496
+Ep 2530 | Reward: -471.00 | Loss: -0.1378 | EntCoef: 0.1494
+Ep 2540 | Reward: -451.00 | Loss: -0.1886 | EntCoef: 0.1492
+Ep 2550 | Reward: -490.50 | Loss: -0.1481 | EntCoef: 0.1490
+Ep 2560 | Reward: -510.50 | Loss: -0.2731 | EntCoef: 0.1488
+Ep 2570 | Reward: -540.00 | Loss: -0.1759 | EntCoef: 0.1486
+Ep 2580 | Reward: -575.25 | Loss: -0.1854 | EntCoef: 0.1484
+Ep 2590 | Reward: -407.25 | Loss: -0.1489 | EntCoef: 0.1482
+Ep 2600 | Reward: -438.50 | Loss: -0.1237 | EntCoef: 0.1480
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1185.20 (best: 975.50)
+Ep 2610 | Reward: -505.75 | Loss: -0.3004 | EntCoef: 0.1478
+Ep 2620 | Reward: -423.00 | Loss: -0.2088 | EntCoef: 0.1476
+Ep 2630 | Reward: -513.50 | Loss: -0.2435 | EntCoef: 0.1474
+Ep 2640 | Reward: -502.25 | Loss: -0.2222 | EntCoef: 0.1472
+Ep 2650 | Reward: -462.25 | Loss: -0.1694 | EntCoef: 0.1470
+Ep 2660 | Reward: -395.00 | Loss: -0.2498 | EntCoef: 0.1468
+Ep 2670 | Reward: -510.25 | Loss: -0.2299 | EntCoef: 0.1466
+Ep 2680 | Reward: -485.50 | Loss: -0.1455 | EntCoef: 0.1464
+Ep 2690 | Reward: -552.75 | Loss: -0.0867 | EntCoef: 0.1462
+Ep 2700 | Reward: -545.50 | Loss: -0.1626 | EntCoef: 0.1460
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1173.10 (best: 975.50)
+Ep 2710 | Reward: -468.75 | Loss: -0.2688 | EntCoef: 0.1458
+Ep 2720 | Reward: -521.50 | Loss: -0.1685 | EntCoef: 0.1456
+Ep 2730 | Reward: -497.75 | Loss: -0.1282 | EntCoef: 0.1454
+Ep 2740 | Reward: -468.75 | Loss: -0.1878 | EntCoef: 0.1452
+Ep 2750 | Reward: -519.00 | Loss: -0.2490 | EntCoef: 0.1450
+Ep 2760 | Reward: -465.25 | Loss: -0.2563 | EntCoef: 0.1448
+Ep 2770 | Reward: -510.50 | Loss: -0.1828 | EntCoef: 0.1446
+Ep 2780 | Reward: -504.50 | Loss: -0.1751 | EntCoef: 0.1444
+Ep 2790 | Reward: -606.75 | Loss: -0.1644 | EntCoef: 0.1442
+Ep 2800 | Reward: -481.00 | Loss: -0.2180 | EntCoef: 0.1440
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1155.00 (best: 975.50)
+Ep 2810 | Reward: -534.00 | Loss: -0.2818 | EntCoef: 0.1438
+Ep 2820 | Reward: -463.25 | Loss: -0.2087 | EntCoef: 0.1436
+Ep 2830 | Reward: -532.75 | Loss: -0.1972 | EntCoef: 0.1434
+Ep 2840 | Reward: -488.75 | Loss: -0.1709 | EntCoef: 0.1432
+Ep 2850 | Reward: -650.75 | Loss: -0.1984 | EntCoef: 0.1430
+Ep 2860 | Reward: -488.50 | Loss: -0.1850 | EntCoef: 0.1428
+Ep 2870 | Reward: -544.00 | Loss: -0.2024 | EntCoef: 0.1426
+Ep 2880 | Reward: -499.75 | Loss: -0.1439 | EntCoef: 0.1424
+Ep 2890 | Reward: -367.25 | Loss: -0.2219 | EntCoef: 0.1422
+Ep 2900 | Reward: -518.25 | Loss: -0.2268 | EntCoef: 0.1420
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1151.80 (best: 975.50)
+Ep 2910 | Reward: -516.75 | Loss: -0.2080 | EntCoef: 0.1418
+Ep 2920 | Reward: -534.50 | Loss: -0.1458 | EntCoef: 0.1416
+Ep 2930 | Reward: -471.00 | Loss: -0.1487 | EntCoef: 0.1414
+Ep 2940 | Reward: -496.75 | Loss: -0.0914 | EntCoef: 0.1412
+Ep 2950 | Reward: -447.50 | Loss: 0.0076 | EntCoef: 0.1410
+Ep 2960 | Reward: -516.25 | Loss: -0.1869 | EntCoef: 0.1408
+Ep 2970 | Reward: -498.50 | Loss: -0.1761 | EntCoef: 0.1406
+Ep 2980 | Reward: -437.50 | Loss: -0.1300 | EntCoef: 0.1404
+Ep 2990 | Reward: -584.00 | Loss: -0.2143 | EntCoef: 0.1402
+Ep 3000 | Reward: -440.50 | Loss: -0.3088 | EntCoef: 0.1400
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1155.00 (best: 975.50)
+Ep 3010 | Reward: -516.50 | Loss: -0.0910 | EntCoef: 0.1398
+Ep 3020 | Reward: -494.25 | Loss: -0.1017 | EntCoef: 0.1396
+Ep 3030 | Reward: -545.25 | Loss: -0.1782 | EntCoef: 0.1394
+Ep 3040 | Reward: -511.50 | Loss: -0.0925 | EntCoef: 0.1392
+Ep 3050 | Reward: -519.50 | Loss: -0.2457 | EntCoef: 0.1390
+Ep 3060 | Reward: -418.75 | Loss: -0.2559 | EntCoef: 0.1388
+Ep 3070 | Reward: -518.75 | Loss: -0.1596 | EntCoef: 0.1386
+Ep 3080 | Reward: -472.00 | Loss: -0.2344 | EntCoef: 0.1384
+Ep 3090 | Reward: -554.00 | Loss: -0.1502 | EntCoef: 0.1382
+Ep 3100 | Reward: -567.50 | Loss: -0.2605 | EntCoef: 0.1380
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1210.50 (best: 975.50)
+Ep 3110 | Reward: -553.75 | Loss: -0.1521 | EntCoef: 0.1378
+Ep 3120 | Reward: -519.25 | Loss: -0.1372 | EntCoef: 0.1376
+Ep 3130 | Reward: -480.50 | Loss: -0.1823 | EntCoef: 0.1374
+Ep 3140 | Reward: -546.50 | Loss: -0.1915 | EntCoef: 0.1372
+Ep 3150 | Reward: -521.00 | Loss: -0.1372 | EntCoef: 0.1370
+Ep 3160 | Reward: -548.50 | Loss: -0.1081 | EntCoef: 0.1368
+Ep 3170 | Reward: -463.25 | Loss: -0.1581 | EntCoef: 0.1366
+Ep 3180 | Reward: -501.75 | Loss: -0.1315 | EntCoef: 0.1364
+Ep 3190 | Reward: -450.00 | Loss: -0.1274 | EntCoef: 0.1362
+Ep 3200 | Reward: -608.25 | Loss: -0.1587 | EntCoef: 0.1360
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1102.30 (best: 975.50)
+Ep 3210 | Reward: -519.75 | Loss: -0.1704 | EntCoef: 0.1358
+Ep 3220 | Reward: -563.75 | Loss: -0.1593 | EntCoef: 0.1356
+Ep 3230 | Reward: -520.00 | Loss: -0.1921 | EntCoef: 0.1354
+Ep 3240 | Reward: -515.50 | Loss: -0.0726 | EntCoef: 0.1352
+Ep 3250 | Reward: -540.00 | Loss: -0.0018 | EntCoef: 0.1350
+Ep 3260 | Reward: -521.50 | Loss: -0.1864 | EntCoef: 0.1348
+Ep 3270 | Reward: -490.50 | Loss: -0.1964 | EntCoef: 0.1346
+Ep 3280 | Reward: -539.75 | Loss: -0.1926 | EntCoef: 0.1344
+Ep 3290 | Reward: -531.75 | Loss: -0.1997 | EntCoef: 0.1342
+Ep 3300 | Reward: -456.25 | Loss: -0.1759 | EntCoef: 0.1340
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1156.10 (best: 975.50)
+Ep 3310 | Reward: -529.50 | Loss: -0.2023 | EntCoef: 0.1338
+Ep 3320 | Reward: -480.75 | Loss: -0.2289 | EntCoef: 0.1336
+Ep 3330 | Reward: -488.75 | Loss: -0.1781 | EntCoef: 0.1334
+Ep 3340 | Reward: -574.25 | Loss: -0.1584 | EntCoef: 0.1332
+Ep 3350 | Reward: -468.00 | Loss: -0.1672 | EntCoef: 0.1330
+Ep 3360 | Reward: -570.50 | Loss: -0.1029 | EntCoef: 0.1328
+Ep 3370 | Reward: -542.50 | Loss: -0.2342 | EntCoef: 0.1326
+Ep 3380 | Reward: -486.25 | Loss: -0.1155 | EntCoef: 0.1324
+Ep 3390 | Reward: -493.50 | Loss: -0.1969 | EntCoef: 0.1322
+Ep 3400 | Reward: -508.50 | Loss: -0.2100 | EntCoef: 0.1320
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1199.10 (best: 975.50)
+Ep 3410 | Reward: -465.50 | Loss: -0.2386 | EntCoef: 0.1318
+Ep 3420 | Reward: -500.25 | Loss: -0.1955 | EntCoef: 0.1316
+Ep 3430 | Reward: -475.00 | Loss: -0.2458 | EntCoef: 0.1314
+Ep 3440 | Reward: -587.50 | Loss: -0.1501 | EntCoef: 0.1312
+Ep 3450 | Reward: -497.75 | Loss: -0.1444 | EntCoef: 0.1310
+Ep 3460 | Reward: -528.25 | Loss: -0.0208 | EntCoef: 0.1308
+Ep 3470 | Reward: -529.75 | Loss: -0.1330 | EntCoef: 0.1306
+Ep 3480 | Reward: -523.25 | Loss: -0.2043 | EntCoef: 0.1304
+Ep 3490 | Reward: -481.50 | Loss: -0.0682 | EntCoef: 0.1302
+Ep 3500 | Reward: -551.00 | Loss: -0.1569 | EntCoef: 0.1300
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1146.00 (best: 975.50)
+Ep 3510 | Reward: -527.00 | Loss: -0.1793 | EntCoef: 0.1298
+Ep 3520 | Reward: -431.75 | Loss: -0.1808 | EntCoef: 0.1296
+Ep 3530 | Reward: -415.50 | Loss: -0.1923 | EntCoef: 0.1294
+Ep 3540 | Reward: -602.50 | Loss: -0.1921 | EntCoef: 0.1292
+Ep 3550 | Reward: -532.00 | Loss: -0.1474 | EntCoef: 0.1290
+Ep 3560 | Reward: -495.25 | Loss: -0.1742 | EntCoef: 0.1288
+Ep 3570 | Reward: -557.75 | Loss: -0.1537 | EntCoef: 0.1286
+Ep 3580 | Reward: -553.50 | Loss: -0.1607 | EntCoef: 0.1284
+Ep 3590 | Reward: -501.75 | Loss: -0.1379 | EntCoef: 0.1282
+Ep 3600 | Reward: -505.00 | Loss: -0.2120 | EntCoef: 0.1280
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1108.60 (best: 975.50)
+Ep 3610 | Reward: -445.75 | Loss: -0.0694 | EntCoef: 0.1278
+Ep 3620 | Reward: -521.25 | Loss: -0.2219 | EntCoef: 0.1276
+Ep 3630 | Reward: -521.00 | Loss: -0.1580 | EntCoef: 0.1274
+Ep 3640 | Reward: -526.00 | Loss: -0.1657 | EntCoef: 0.1272
+Ep 3650 | Reward: -499.75 | Loss: -0.1963 | EntCoef: 0.1270
+Ep 3660 | Reward: -534.75 | Loss: -0.1507 | EntCoef: 0.1268
+Ep 3670 | Reward: -493.25 | Loss: -0.0654 | EntCoef: 0.1266
+Ep 3680 | Reward: -560.50 | Loss: -0.1025 | EntCoef: 0.1264
+Ep 3690 | Reward: -567.25 | Loss: -0.1600 | EntCoef: 0.1262
+Ep 3700 | Reward: -507.25 | Loss: -0.1793 | EntCoef: 0.1260
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1116.40 (best: 975.50)
+Ep 3710 | Reward: -578.25 | Loss: -0.1517 | EntCoef: 0.1258
+Ep 3720 | Reward: -450.75 | Loss: -0.1476 | EntCoef: 0.1256
+Ep 3730 | Reward: -491.75 | Loss: -0.1558 | EntCoef: 0.1254
+Ep 3740 | Reward: -463.75 | Loss: -0.0915 | EntCoef: 0.1252
+Ep 3750 | Reward: -469.00 | Loss: -0.1337 | EntCoef: 0.1250
+Ep 3760 | Reward: -459.75 | Loss: -0.2138 | EntCoef: 0.1248
+Ep 3770 | Reward: -422.25 | Loss: -0.1945 | EntCoef: 0.1246
+Ep 3780 | Reward: -396.75 | Loss: -0.0575 | EntCoef: 0.1244
+Ep 3790 | Reward: -510.00 | Loss: -0.1910 | EntCoef: 0.1242
+Ep 3800 | Reward: -521.00 | Loss: -0.1017 | EntCoef: 0.1240
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1151.40 (best: 975.50)
+Ep 3810 | Reward: -537.25 | Loss: -0.1711 | EntCoef: 0.1238
+Ep 3820 | Reward: -468.00 | Loss: -0.1611 | EntCoef: 0.1236
+Ep 3830 | Reward: -449.25 | Loss: -0.1478 | EntCoef: 0.1234
+Ep 3840 | Reward: -422.25 | Loss: -0.1383 | EntCoef: 0.1232
+Ep 3850 | Reward: -563.50 | Loss: -0.1512 | EntCoef: 0.1230
+Ep 3860 | Reward: -575.25 | Loss: -0.1884 | EntCoef: 0.1228
+Ep 3870 | Reward: -543.50 | Loss: -0.1425 | EntCoef: 0.1226
+Ep 3880 | Reward: -504.25 | Loss: -0.0028 | EntCoef: 0.1224
+Ep 3890 | Reward: -446.75 | Loss: -0.1510 | EntCoef: 0.1222
+Ep 3900 | Reward: -507.25 | Loss: -0.1118 | EntCoef: 0.1220
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1178.70 (best: 975.50)
+Ep 3910 | Reward: -461.00 | Loss: -0.1599 | EntCoef: 0.1218
+Ep 3920 | Reward: -485.75 | Loss: -0.1735 | EntCoef: 0.1216
+Ep 3930 | Reward: -599.50 | Loss: -0.1508 | EntCoef: 0.1214
+Ep 3940 | Reward: -430.50 | Loss: -0.1240 | EntCoef: 0.1212
+Ep 3950 | Reward: -472.50 | Loss: -0.1653 | EntCoef: 0.1210
+Ep 3960 | Reward: -515.75 | Loss: -0.1276 | EntCoef: 0.1208
+Ep 3970 | Reward: -578.25 | Loss: -0.2158 | EntCoef: 0.1206
+Ep 3980 | Reward: -486.25 | Loss: -0.1076 | EntCoef: 0.1204
+Ep 3990 | Reward: -440.75 | Loss: -0.0519 | EntCoef: 0.1202
+Ep 4000 | Reward: -576.75 | Loss: -0.1767 | EntCoef: 0.1200
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1075.00 (best: 975.50)
+Ep 4010 | Reward: -500.75 | Loss: -0.1049 | EntCoef: 0.1198
+Ep 4020 | Reward: -516.00 | Loss: -0.1592 | EntCoef: 0.1196
+Ep 4030 | Reward: -556.50 | Loss: -0.1052 | EntCoef: 0.1194
+Ep 4040 | Reward: -521.75 | Loss: -0.2287 | EntCoef: 0.1192
+Ep 4050 | Reward: -454.25 | Loss: -0.0923 | EntCoef: 0.1190
+Ep 4060 | Reward: -463.25 | Loss: -0.0693 | EntCoef: 0.1188
+Ep 4070 | Reward: -554.25 | Loss: -0.1229 | EntCoef: 0.1186
+Ep 4080 | Reward: -582.50 | Loss: -0.0621 | EntCoef: 0.1184
+Ep 4090 | Reward: -562.50 | Loss: -0.1404 | EntCoef: 0.1182
+Ep 4100 | Reward: -452.00 | Loss: -0.2002 | EntCoef: 0.1180
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1109.50 (best: 975.50)
+Ep 4110 | Reward: -515.75 | Loss: -0.1310 | EntCoef: 0.1178
+Ep 4120 | Reward: -543.75 | Loss: -0.1518 | EntCoef: 0.1176
+Ep 4130 | Reward: -562.75 | Loss: -0.2154 | EntCoef: 0.1174
+Ep 4140 | Reward: -449.25 | Loss: -0.1503 | EntCoef: 0.1172
+Ep 4150 | Reward: -404.50 | Loss: -0.0766 | EntCoef: 0.1170
+Ep 4160 | Reward: -509.25 | Loss: -0.0709 | EntCoef: 0.1168
+Ep 4170 | Reward: -495.75 | Loss: -0.0668 | EntCoef: 0.1166
+Ep 4180 | Reward: -501.25 | Loss: -0.1791 | EntCoef: 0.1164
+Ep 4190 | Reward: -504.00 | Loss: -0.2048 | EntCoef: 0.1162
+Ep 4200 | Reward: -440.50 | Loss: -0.0504 | EntCoef: 0.1160
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1037.00 (best: 975.50)
+Ep 4210 | Reward: -440.25 | Loss: -0.1191 | EntCoef: 0.1158
+Ep 4220 | Reward: -543.00 | Loss: -0.0196 | EntCoef: 0.1156
+Ep 4230 | Reward: -564.50 | Loss: -0.1182 | EntCoef: 0.1154
+Ep 4240 | Reward: -468.00 | Loss: -0.1453 | EntCoef: 0.1152
+Ep 4250 | Reward: -435.25 | Loss: -0.1393 | EntCoef: 0.1150
+Ep 4260 | Reward: -491.50 | Loss: -0.1114 | EntCoef: 0.1148
+Ep 4270 | Reward: -532.25 | Loss: -0.1153 | EntCoef: 0.1146
+Ep 4280 | Reward: -440.50 | Loss: -0.0436 | EntCoef: 0.1144
+Ep 4290 | Reward: -526.00 | Loss: -0.1155 | EntCoef: 0.1142
+Ep 4300 | Reward: -467.25 | Loss: -0.1833 | EntCoef: 0.1140
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1032.80 (best: 975.50)
+Ep 4310 | Reward: -520.75 | Loss: -0.0642 | EntCoef: 0.1138
+Ep 4320 | Reward: -503.00 | Loss: -0.0916 | EntCoef: 0.1136
+Ep 4330 | Reward: -468.00 | Loss: -0.1700 | EntCoef: 0.1134
+Ep 4340 | Reward: -482.75 | Loss: -0.0500 | EntCoef: 0.1132
+Ep 4350 | Reward: -676.25 | Loss: -0.1779 | EntCoef: 0.1130
+Ep 4360 | Reward: -371.75 | Loss: -0.1165 | EntCoef: 0.1128
+Ep 4370 | Reward: -464.25 | Loss: -0.0498 | EntCoef: 0.1126
+Ep 4380 | Reward: -528.25 | Loss: -0.0909 | EntCoef: 0.1124
+Ep 4390 | Reward: -496.00 | Loss: 0.0888 | EntCoef: 0.1122
+Ep 4400 | Reward: -566.50 | Loss: -0.1306 | EntCoef: 0.1120
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1069.40 (best: 975.50)
+Ep 4410 | Reward: -484.50 | Loss: -0.1718 | EntCoef: 0.1118
+Ep 4420 | Reward: -490.75 | Loss: -0.1232 | EntCoef: 0.1116
+Ep 4430 | Reward: -503.25 | Loss: -0.1836 | EntCoef: 0.1114
+Ep 4440 | Reward: -525.75 | Loss: -0.1633 | EntCoef: 0.1112
+Ep 4450 | Reward: -532.25 | Loss: -0.1713 | EntCoef: 0.1110
+Ep 4460 | Reward: -517.75 | Loss: -0.1726 | EntCoef: 0.1108
+Ep 4470 | Reward: -544.25 | Loss: -0.0830 | EntCoef: 0.1106
+Ep 4480 | Reward: -494.25 | Loss: -0.1422 | EntCoef: 0.1104
+Ep 4490 | Reward: -465.25 | Loss: -0.0760 | EntCoef: 0.1102
+Ep 4500 | Reward: -456.25 | Loss: -0.0657 | EntCoef: 0.1100
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1072.40 (best: 975.50)
+Ep 4510 | Reward: -599.50 | Loss: -0.1353 | EntCoef: 0.1098
+Ep 4520 | Reward: -585.00 | Loss: -0.1012 | EntCoef: 0.1096
+Ep 4530 | Reward: -480.25 | Loss: -0.1573 | EntCoef: 0.1094
+Ep 4540 | Reward: -471.75 | Loss: -0.1220 | EntCoef: 0.1092
+Ep 4550 | Reward: -570.25 | Loss: 0.0139 | EntCoef: 0.1090
+Ep 4560 | Reward: -471.50 | Loss: -0.1151 | EntCoef: 0.1088
+Ep 4570 | Reward: -463.75 | Loss: -0.0783 | EntCoef: 0.1086
+Ep 4580 | Reward: -512.25 | Loss: -0.2038 | EntCoef: 0.1084
+Ep 4590 | Reward: -547.50 | Loss: -0.1541 | EntCoef: 0.1082
+Ep 4600 | Reward: -500.50 | Loss: -0.0763 | EntCoef: 0.1080
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 994.50 (best: 975.50)
+Ep 4610 | Reward: -511.75 | Loss: -0.0570 | EntCoef: 0.1078
+Ep 4620 | Reward: -545.25 | Loss: -0.1616 | EntCoef: 0.1076
+Ep 4630 | Reward: -499.00 | Loss: -0.1706 | EntCoef: 0.1074
+Ep 4640 | Reward: -478.00 | Loss: -0.1479 | EntCoef: 0.1072
+Ep 4650 | Reward: -515.75 | Loss: 0.0188 | EntCoef: 0.1070
+Ep 4660 | Reward: -557.50 | Loss: -0.0731 | EntCoef: 0.1068
+Ep 4670 | Reward: -508.75 | Loss: -0.1571 | EntCoef: 0.1066
+Ep 4680 | Reward: -508.50 | Loss: -0.0567 | EntCoef: 0.1064
+Ep 4690 | Reward: -532.75 | Loss: -0.1352 | EntCoef: 0.1062
+Ep 4700 | Reward: -516.25 | Loss: -0.1236 | EntCoef: 0.1060
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1032.60 (best: 975.50)
+Ep 4710 | Reward: -487.75 | Loss: -0.0923 | EntCoef: 0.1058
+Ep 4720 | Reward: -494.00 | Loss: -0.1223 | EntCoef: 0.1056
+Ep 4730 | Reward: -447.50 | Loss: -0.0401 | EntCoef: 0.1054
+Ep 4740 | Reward: -481.50 | Loss: -0.0448 | EntCoef: 0.1052
+Ep 4750 | Reward: -499.75 | Loss: -0.1627 | EntCoef: 0.1050
+Ep 4760 | Reward: -458.25 | Loss: -0.0928 | EntCoef: 0.1048
+Ep 4770 | Reward: -536.25 | Loss: -0.1815 | EntCoef: 0.1046
+Ep 4780 | Reward: -508.50 | Loss: -0.1756 | EntCoef: 0.1044
+Ep 4790 | Reward: -477.75 | Loss: -0.0616 | EntCoef: 0.1042
+Ep 4800 | Reward: -520.50 | Loss: -0.1323 | EntCoef: 0.1040
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1045.90 (best: 975.50)
+Ep 4810 | Reward: -529.75 | Loss: -0.1238 | EntCoef: 0.1038
+Ep 4820 | Reward: -625.75 | Loss: -0.0568 | EntCoef: 0.1036
+Ep 4830 | Reward: -518.25 | Loss: -0.1147 | EntCoef: 0.1034
+Ep 4840 | Reward: -475.00 | Loss: -0.1069 | EntCoef: 0.1032
+Ep 4850 | Reward: -569.25 | Loss: -0.0905 | EntCoef: 0.1030
+Ep 4860 | Reward: -449.75 | Loss: -0.1024 | EntCoef: 0.1028
+Ep 4870 | Reward: -448.00 | Loss: -0.0489 | EntCoef: 0.1026
+Ep 4880 | Reward: -436.00 | Loss: -0.1439 | EntCoef: 0.1024
+Ep 4890 | Reward: -504.00 | Loss: -0.1496 | EntCoef: 0.1022
+Ep 4900 | Reward: -534.75 | Loss: -0.0732 | EntCoef: 0.1020
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1114.20 (best: 975.50)
+Ep 4910 | Reward: -548.25 | Loss: -0.1358 | EntCoef: 0.1018
+Ep 4920 | Reward: -450.75 | Loss: -0.1017 | EntCoef: 0.1016
+Ep 4930 | Reward: -453.75 | Loss: -0.1425 | EntCoef: 0.1014
+Ep 4940 | Reward: -679.25 | Loss: -0.0642 | EntCoef: 0.1012
+Ep 4950 | Reward: -626.00 | Loss: -0.1551 | EntCoef: 0.1010
+Ep 4960 | Reward: -426.25 | Loss: -0.0602 | EntCoef: 0.1008
+Ep 4970 | Reward: -461.75 | Loss: -0.0834 | EntCoef: 0.1006
+Ep 4980 | Reward: -496.25 | Loss: -0.1453 | EntCoef: 0.1004
+Ep 4990 | Reward: -470.75 | Loss: -0.0791 | EntCoef: 0.1002
+Ep 5000 | Reward: -621.75 | Loss: -0.0892 | EntCoef: 0.1000
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1052.40 (best: 975.50)
+Ep 5010 | Reward: -520.75 | Loss: -0.0867 | EntCoef: 0.0998
+Ep 5020 | Reward: -474.00 | Loss: -0.1052 | EntCoef: 0.0996
+Ep 5030 | Reward: -535.75 | Loss: -0.0147 | EntCoef: 0.0994
+Ep 5040 | Reward: -474.75 | Loss: -0.1109 | EntCoef: 0.0992
+Ep 5050 | Reward: -516.25 | Loss: -0.0374 | EntCoef: 0.0990
+Ep 5060 | Reward: -413.75 | Loss: -0.0909 | EntCoef: 0.0988
+Ep 5070 | Reward: -441.50 | Loss: -0.0905 | EntCoef: 0.0986
+Ep 5080 | Reward: -453.00 | Loss: -0.1191 | EntCoef: 0.0984
+Ep 5090 | Reward: -568.50 | Loss: -0.0873 | EntCoef: 0.0982
+Ep 5100 | Reward: -432.00 | Loss: -0.1474 | EntCoef: 0.0980
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1029.00 (best: 975.50)
+Ep 5110 | Reward: -610.25 | Loss: -0.1292 | EntCoef: 0.0978
+Ep 5120 | Reward: -483.75 | Loss: -0.0748 | EntCoef: 0.0976
+Ep 5130 | Reward: -425.50 | Loss: -0.1252 | EntCoef: 0.0974
+Ep 5140 | Reward: -574.25 | Loss: -0.0915 | EntCoef: 0.0972
+Ep 5150 | Reward: -438.50 | Loss: -0.1187 | EntCoef: 0.0970
+Ep 5160 | Reward: -475.25 | Loss: -0.1444 | EntCoef: 0.0968
+Ep 5170 | Reward: -469.75 | Loss: -0.1468 | EntCoef: 0.0966
+Ep 5180 | Reward: -546.50 | Loss: -0.0019 | EntCoef: 0.0964
+Ep 5190 | Reward: -452.50 | Loss: -0.0911 | EntCoef: 0.0962
+Ep 5200 | Reward: -564.50 | Loss: -0.0886 | EntCoef: 0.0960
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1119.10 (best: 975.50)
+Ep 5210 | Reward: -526.25 | Loss: -0.1464 | EntCoef: 0.0958
+Ep 5220 | Reward: -543.50 | Loss: -0.0951 | EntCoef: 0.0956
+Ep 5230 | Reward: -524.50 | Loss: -0.0081 | EntCoef: 0.0954
+Ep 5240 | Reward: -523.25 | Loss: -0.0061 | EntCoef: 0.0952
+Ep 5250 | Reward: -459.75 | Loss: -0.1381 | EntCoef: 0.0950
+Ep 5260 | Reward: -518.50 | Loss: -0.0227 | EntCoef: 0.0948
+Ep 5270 | Reward: -543.25 | Loss: 0.0183 | EntCoef: 0.0946
+Ep 5280 | Reward: -518.50 | Loss: -0.1461 | EntCoef: 0.0944
+Ep 5290 | Reward: -513.25 | Loss: -0.1430 | EntCoef: 0.0942
+Ep 5300 | Reward: -447.00 | Loss: -0.1546 | EntCoef: 0.0940
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1078.70 (best: 975.50)
+Ep 5310 | Reward: -390.00 | Loss: -0.0759 | EntCoef: 0.0938
+Ep 5320 | Reward: -527.75 | Loss: -0.1045 | EntCoef: 0.0936
+Ep 5330 | Reward: -461.25 | Loss: -0.0777 | EntCoef: 0.0934
+Ep 5340 | Reward: -460.75 | Loss: -0.0944 | EntCoef: 0.0932
+Ep 5350 | Reward: -458.25 | Loss: -0.0812 | EntCoef: 0.0930
+Ep 5360 | Reward: -487.25 | Loss: -0.0293 | EntCoef: 0.0928
+Ep 5370 | Reward: -605.25 | Loss: -0.0924 | EntCoef: 0.0926
+Ep 5380 | Reward: -566.50 | Loss: -0.0845 | EntCoef: 0.0924
+Ep 5390 | Reward: -520.00 | Loss: -0.0995 | EntCoef: 0.0922
+Ep 5400 | Reward: -451.50 | Loss: -0.0581 | EntCoef: 0.0920
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1085.20 (best: 975.50)
+Ep 5410 | Reward: -522.50 | Loss: -0.1412 | EntCoef: 0.0918
+Ep 5420 | Reward: -528.00 | Loss: -0.0819 | EntCoef: 0.0916
+Ep 5430 | Reward: -551.00 | Loss: -0.1179 | EntCoef: 0.0914
+Ep 5440 | Reward: -458.25 | Loss: -0.1008 | EntCoef: 0.0912
+Ep 5450 | Reward: -513.25 | Loss: -0.0846 | EntCoef: 0.0910
+Ep 5460 | Reward: -507.00 | Loss: -0.1177 | EntCoef: 0.0908
+Ep 5470 | Reward: -399.50 | Loss: -0.0923 | EntCoef: 0.0906
+Ep 5480 | Reward: -476.00 | Loss: -0.1110 | EntCoef: 0.0904
+Ep 5490 | Reward: -485.75 | Loss: -0.0380 | EntCoef: 0.0902
+Ep 5500 | Reward: -468.00 | Loss: -0.0162 | EntCoef: 0.0900
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1057.30 (best: 975.50)
+Ep 5510 | Reward: -541.50 | Loss: -0.1102 | EntCoef: 0.0898
+Ep 5520 | Reward: -490.75 | Loss: -0.0186 | EntCoef: 0.0896
+Ep 5530 | Reward: -489.50 | Loss: -0.1534 | EntCoef: 0.0894
+Ep 5540 | Reward: -574.75 | Loss: -0.1496 | EntCoef: 0.0892
+Ep 5550 | Reward: -466.75 | Loss: -0.0576 | EntCoef: 0.0890
+Ep 5560 | Reward: -496.25 | Loss: -0.1555 | EntCoef: 0.0888
+Ep 5570 | Reward: -509.00 | Loss: -0.0537 | EntCoef: 0.0886
+Ep 5580 | Reward: -528.50 | Loss: -0.1134 | EntCoef: 0.0884
+Ep 5590 | Reward: -566.50 | Loss: -0.0607 | EntCoef: 0.0882
+Ep 5600 | Reward: -536.50 | Loss: 0.0085 | EntCoef: 0.0880
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1070.70 (best: 975.50)
+Ep 5610 | Reward: -496.50 | Loss: -0.0865 | EntCoef: 0.0878
+Ep 5620 | Reward: -551.00 | Loss: -0.1282 | EntCoef: 0.0876
+Ep 5630 | Reward: -514.25 | Loss: -0.0919 | EntCoef: 0.0874
+Ep 5640 | Reward: -487.50 | Loss: -0.0892 | EntCoef: 0.0872
+Ep 5650 | Reward: -512.25 | Loss: -0.1440 | EntCoef: 0.0870
+Ep 5660 | Reward: -545.25 | Loss: -0.0907 | EntCoef: 0.0868
+Ep 5670 | Reward: -526.25 | Loss: 0.0680 | EntCoef: 0.0866
+Ep 5680 | Reward: -601.00 | Loss: -0.0601 | EntCoef: 0.0864
+Ep 5690 | Reward: -571.50 | Loss: 0.0288 | EntCoef: 0.0862
+Ep 5700 | Reward: -473.50 | Loss: -0.0690 | EntCoef: 0.0860
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1068.60 (best: 975.50)
+Ep 5710 | Reward: -561.50 | Loss: -0.1172 | EntCoef: 0.0858
+Ep 5720 | Reward: -445.50 | Loss: -0.1524 | EntCoef: 0.0856
+Ep 5730 | Reward: -496.00 | Loss: -0.0901 | EntCoef: 0.0854
+Ep 5740 | Reward: -474.50 | Loss: -0.0967 | EntCoef: 0.0852
+Ep 5750 | Reward: -505.25 | Loss: -0.0878 | EntCoef: 0.0850
+Ep 5760 | Reward: -502.25 | Loss: -0.1325 | EntCoef: 0.0848
+Ep 5770 | Reward: -606.25 | Loss: -0.1089 | EntCoef: 0.0846
+Ep 5780 | Reward: -511.75 | Loss: -0.1278 | EntCoef: 0.0844
+Ep 5790 | Reward: -545.50 | Loss: -0.1115 | EntCoef: 0.0842
+Ep 5800 | Reward: -501.75 | Loss: 0.0039 | EntCoef: 0.0840
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1053.60 (best: 975.50)
+Ep 5810 | Reward: -546.25 | Loss: -0.0286 | EntCoef: 0.0838
+Ep 5820 | Reward: -486.50 | Loss: -0.0380 | EntCoef: 0.0836
+Ep 5830 | Reward: -507.25 | Loss: -0.0614 | EntCoef: 0.0834
+Ep 5840 | Reward: -438.50 | Loss: -0.0927 | EntCoef: 0.0832
+Ep 5850 | Reward: -523.00 | Loss: -0.1121 | EntCoef: 0.0830
+Ep 5860 | Reward: -506.50 | Loss: -0.0650 | EntCoef: 0.0828
+Ep 5870 | Reward: -513.75 | Loss: -0.1141 | EntCoef: 0.0826
+Ep 5880 | Reward: -508.50 | Loss: -0.0712 | EntCoef: 0.0824
+Ep 5890 | Reward: -524.25 | Loss: 0.0550 | EntCoef: 0.0822
+Ep 5900 | Reward: -546.25 | Loss: -0.1371 | EntCoef: 0.0820
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1087.80 (best: 975.50)
+Ep 5910 | Reward: -513.75 | Loss: -0.1357 | EntCoef: 0.0818
+Ep 5920 | Reward: -423.50 | Loss: 0.0083 | EntCoef: 0.0816
+Ep 5930 | Reward: -528.50 | Loss: -0.0872 | EntCoef: 0.0814
+Ep 5940 | Reward: -558.25 | Loss: -0.0686 | EntCoef: 0.0812
+Ep 5950 | Reward: -552.50 | Loss: -0.0412 | EntCoef: 0.0810
+Ep 5960 | Reward: -432.25 | Loss: -0.0245 | EntCoef: 0.0808
+Ep 5970 | Reward: -449.75 | Loss: -0.0788 | EntCoef: 0.0806
+Ep 5980 | Reward: -556.75 | Loss: -0.1367 | EntCoef: 0.0804
+Ep 5990 | Reward: -572.75 | Loss: -0.0367 | EntCoef: 0.0802
+Ep 6000 | Reward: -403.00 | Loss: -0.0362 | EntCoef: 0.0800
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1064.90 (best: 975.50)
+Ep 6010 | Reward: -543.25 | Loss: -0.0905 | EntCoef: 0.0798
+Ep 6020 | Reward: -461.75 | Loss: -0.0849 | EntCoef: 0.0796
+Ep 6030 | Reward: -529.50 | Loss: -0.0687 | EntCoef: 0.0794
+Ep 6040 | Reward: -566.75 | Loss: -0.0631 | EntCoef: 0.0792
+Ep 6050 | Reward: -452.00 | Loss: 0.0285 | EntCoef: 0.0790
+Ep 6060 | Reward: -515.50 | Loss: -0.0845 | EntCoef: 0.0788
+Ep 6070 | Reward: -469.25 | Loss: -0.0130 | EntCoef: 0.0786
+Ep 6080 | Reward: -467.50 | Loss: -0.0629 | EntCoef: 0.0784
+Ep 6090 | Reward: -515.25 | Loss: 0.0393 | EntCoef: 0.0782
+Ep 6100 | Reward: -564.00 | Loss: -0.0614 | EntCoef: 0.0780
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1054.40 (best: 975.50)
+Ep 6110 | Reward: -385.00 | Loss: -0.1059 | EntCoef: 0.0778
+Ep 6120 | Reward: -457.75 | Loss: -0.0307 | EntCoef: 0.0776
+Ep 6130 | Reward: -492.75 | Loss: -0.0613 | EntCoef: 0.0774
+Ep 6140 | Reward: -459.75 | Loss: -0.0807 | EntCoef: 0.0772
+Ep 6150 | Reward: -444.25 | Loss: 0.0196 | EntCoef: 0.0770
+Ep 6160 | Reward: -402.75 | Loss: -0.1100 | EntCoef: 0.0768
+Ep 6170 | Reward: -472.25 | Loss: -0.1230 | EntCoef: 0.0766
+Ep 6180 | Reward: -543.25 | Loss: -0.0555 | EntCoef: 0.0764
+Ep 6190 | Reward: -497.00 | Loss: -0.1224 | EntCoef: 0.0762
+Ep 6200 | Reward: -379.75 | Loss: -0.1021 | EntCoef: 0.0760
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1065.90 (best: 975.50)
+Ep 6210 | Reward: -513.25 | Loss: -0.0554 | EntCoef: 0.0758
+Ep 6220 | Reward: -504.75 | Loss: 0.0258 | EntCoef: 0.0756
+Ep 6230 | Reward: -498.00 | Loss: 0.0271 | EntCoef: 0.0754
+Ep 6240 | Reward: -542.25 | Loss: -0.0541 | EntCoef: 0.0752
+Ep 6250 | Reward: -400.25 | Loss: 0.0844 | EntCoef: 0.0750
+Ep 6260 | Reward: -530.25 | Loss: -0.0266 | EntCoef: 0.0748
+Ep 6270 | Reward: -541.25 | Loss: 0.0453 | EntCoef: 0.0746
+Ep 6280 | Reward: -533.50 | Loss: -0.1112 | EntCoef: 0.0744
+Ep 6290 | Reward: -451.00 | Loss: -0.0317 | EntCoef: 0.0742
+Ep 6300 | Reward: -544.50 | Loss: -0.0532 | EntCoef: 0.0740
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1076.10 (best: 975.50)
+Ep 6310 | Reward: -557.25 | Loss: -0.0077 | EntCoef: 0.0738
+Ep 6320 | Reward: -514.75 | Loss: 0.0513 | EntCoef: 0.0736
+Ep 6330 | Reward: -511.25 | Loss: -0.0700 | EntCoef: 0.0734
+Ep 6340 | Reward: -526.50 | Loss: -0.1149 | EntCoef: 0.0732
+Ep 6350 | Reward: -465.50 | Loss: -0.0126 | EntCoef: 0.0730
+Ep 6360 | Reward: -471.50 | Loss: -0.0306 | EntCoef: 0.0728
+Ep 6370 | Reward: -490.00 | Loss: -0.1028 | EntCoef: 0.0726
+Ep 6380 | Reward: -580.75 | Loss: -0.0733 | EntCoef: 0.0724
+Ep 6390 | Reward: -453.50 | Loss: -0.0739 | EntCoef: 0.0722
+Ep 6400 | Reward: -519.00 | Loss: -0.0644 | EntCoef: 0.0720
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1063.20 (best: 975.50)
+Ep 6410 | Reward: -486.00 | Loss: -0.1072 | EntCoef: 0.0718
+Ep 6420 | Reward: -577.50 | Loss: -0.0897 | EntCoef: 0.0716
+Ep 6430 | Reward: -499.75 | Loss: -0.0890 | EntCoef: 0.0714
+Ep 6440 | Reward: -475.25 | Loss: -0.0086 | EntCoef: 0.0712
+Ep 6450 | Reward: -518.50 | Loss: -0.0799 | EntCoef: 0.0710
+Ep 6460 | Reward: -493.50 | Loss: -0.0038 | EntCoef: 0.0708
+Ep 6470 | Reward: -468.50 | Loss: -0.0675 | EntCoef: 0.0706
+Ep 6480 | Reward: -555.00 | Loss: -0.1194 | EntCoef: 0.0704
+Ep 6490 | Reward: -594.75 | Loss: -0.0660 | EntCoef: 0.0702
+Ep 6500 | Reward: -473.50 | Loss: -0.1331 | EntCoef: 0.0700
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1074.40 (best: 975.50)
+Ep 6510 | Reward: -474.00 | Loss: -0.1129 | EntCoef: 0.0698
+Ep 6520 | Reward: -519.00 | Loss: -0.0639 | EntCoef: 0.0696
+Ep 6530 | Reward: -524.00 | Loss: -0.0155 | EntCoef: 0.0694
+Ep 6540 | Reward: -643.00 | Loss: -0.0080 | EntCoef: 0.0692
+Ep 6550 | Reward: -561.50 | Loss: -0.0355 | EntCoef: 0.0690
+Ep 6560 | Reward: -546.25 | Loss: -0.0360 | EntCoef: 0.0688
+Ep 6570 | Reward: -417.50 | Loss: -0.0128 | EntCoef: 0.0686
+Ep 6580 | Reward: -542.00 | Loss: -0.0784 | EntCoef: 0.0684
+Ep 6590 | Reward: -528.25 | Loss: -0.0528 | EntCoef: 0.0682
+Ep 6600 | Reward: -469.00 | Loss: -0.0965 | EntCoef: 0.0680
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1083.50 (best: 975.50)
+Ep 6610 | Reward: -446.25 | Loss: -0.0390 | EntCoef: 0.0678
+Ep 6620 | Reward: -477.50 | Loss: -0.0616 | EntCoef: 0.0676
+Ep 6630 | Reward: -515.75 | Loss: -0.0426 | EntCoef: 0.0674
+Ep 6640 | Reward: -475.25 | Loss: -0.0604 | EntCoef: 0.0672
+Ep 6650 | Reward: -608.00 | Loss: -0.0334 | EntCoef: 0.0670
+Ep 6660 | Reward: -623.75 | Loss: 0.0348 | EntCoef: 0.0668
+Ep 6670 | Reward: -420.00 | Loss: -0.0634 | EntCoef: 0.0666
+Ep 6680 | Reward: -590.00 | Loss: -0.0883 | EntCoef: 0.0664
+Ep 6690 | Reward: -511.75 | Loss: -0.1241 | EntCoef: 0.0662
+Ep 6700 | Reward: -560.50 | Loss: 0.0134 | EntCoef: 0.0660
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1077.90 (best: 975.50)
+Ep 6710 | Reward: -532.00 | Loss: -0.0586 | EntCoef: 0.0658
+Ep 6720 | Reward: -579.25 | Loss: -0.0085 | EntCoef: 0.0656
+Ep 6730 | Reward: -546.50 | Loss: -0.1050 | EntCoef: 0.0654
+Ep 6740 | Reward: -444.75 | Loss: -0.0772 | EntCoef: 0.0652
+Ep 6750 | Reward: -554.25 | Loss: -0.0134 | EntCoef: 0.0650
+Ep 6760 | Reward: -436.75 | Loss: -0.0281 | EntCoef: 0.0648
+Ep 6770 | Reward: -624.75 | Loss: -0.0578 | EntCoef: 0.0646
+Ep 6780 | Reward: -459.00 | Loss: -0.0694 | EntCoef: 0.0644
+Ep 6790 | Reward: -508.25 | Loss: -0.0278 | EntCoef: 0.0642
+Ep 6800 | Reward: -482.75 | Loss: -0.0346 | EntCoef: 0.0640
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1125.40 (best: 975.50)
+Ep 6810 | Reward: -546.50 | Loss: -0.0163 | EntCoef: 0.0638
+Ep 6820 | Reward: -453.25 | Loss: 0.0401 | EntCoef: 0.0636
+Ep 6830 | Reward: -498.00 | Loss: 0.0185 | EntCoef: 0.0634
+Ep 6840 | Reward: -501.00 | Loss: -0.0429 | EntCoef: 0.0632
+Ep 6850 | Reward: -544.50 | Loss: -0.0167 | EntCoef: 0.0630
+Ep 6860 | Reward: -495.25 | Loss: -0.0276 | EntCoef: 0.0628
+Ep 6870 | Reward: -552.25 | Loss: -0.0045 | EntCoef: 0.0626
+Ep 6880 | Reward: -468.50 | Loss: 0.0283 | EntCoef: 0.0624
+Ep 6890 | Reward: -397.75 | Loss: -0.0703 | EntCoef: 0.0622
+Ep 6900 | Reward: -565.75 | Loss: -0.0830 | EntCoef: 0.0620
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1024.60 (best: 975.50)
+Ep 6910 | Reward: -462.00 | Loss: 0.0529 | EntCoef: 0.0618
+Ep 6920 | Reward: -497.50 | Loss: -0.0179 | EntCoef: 0.0616
+Ep 6930 | Reward: -551.00 | Loss: -0.0279 | EntCoef: 0.0614
+Ep 6940 | Reward: -412.25 | Loss: 0.0946 | EntCoef: 0.0612
+Ep 6950 | Reward: -468.25 | Loss: -0.0291 | EntCoef: 0.0610
+Ep 6960 | Reward: -572.75 | Loss: 0.0275 | EntCoef: 0.0608
+Ep 6970 | Reward: -566.50 | Loss: -0.0545 | EntCoef: 0.0606
+Ep 6980 | Reward: -534.50 | Loss: -0.0103 | EntCoef: 0.0604
+Ep 6990 | Reward: -501.50 | Loss: 0.0451 | EntCoef: 0.0602
+Ep 7000 | Reward: -621.75 | Loss: -0.0006 | EntCoef: 0.0600
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1063.70 (best: 975.50)
+Ep 7010 | Reward: -548.50 | Loss: -0.0482 | EntCoef: 0.0598
+Ep 7020 | Reward: -536.75 | Loss: 0.0278 | EntCoef: 0.0596
+Ep 7030 | Reward: -478.50 | Loss: -0.0693 | EntCoef: 0.0594
+Ep 7040 | Reward: -465.75 | Loss: 0.0934 | EntCoef: 0.0592
+Ep 7050 | Reward: -528.50 | Loss: 0.0250 | EntCoef: 0.0590
+Ep 7060 | Reward: -491.50 | Loss: -0.0219 | EntCoef: 0.0588
+Ep 7070 | Reward: -544.50 | Loss: -0.0484 | EntCoef: 0.0586
+Ep 7080 | Reward: -443.75 | Loss: 0.0247 | EntCoef: 0.0584
+Ep 7090 | Reward: -446.25 | Loss: -0.0042 | EntCoef: 0.0582
+Ep 7100 | Reward: -464.00 | Loss: -0.0545 | EntCoef: 0.0580
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1066.50 (best: 975.50)
+Ep 7110 | Reward: -495.00 | Loss: 0.0143 | EntCoef: 0.0578
+Ep 7120 | Reward: -698.00 | Loss: -0.0087 | EntCoef: 0.0576
+Ep 7130 | Reward: -500.50 | Loss: -0.0838 | EntCoef: 0.0574
+Ep 7140 | Reward: -492.25 | Loss: -0.0642 | EntCoef: 0.0572
+Ep 7150 | Reward: -506.25 | Loss: -0.0725 | EntCoef: 0.0570
+Ep 7160 | Reward: -564.25 | Loss: -0.0220 | EntCoef: 0.0568
+Ep 7170 | Reward: -587.75 | Loss: 0.1087 | EntCoef: 0.0566
+Ep 7180 | Reward: -551.25 | Loss: -0.0376 | EntCoef: 0.0564
+Ep 7190 | Reward: -481.50 | Loss: -0.0201 | EntCoef: 0.0562
+Ep 7200 | Reward: -487.50 | Loss: 0.0110 | EntCoef: 0.0560
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1059.00 (best: 975.50)
+Ep 7210 | Reward: -491.75 | Loss: -0.0324 | EntCoef: 0.0558
+Ep 7220 | Reward: -459.50 | Loss: 0.0132 | EntCoef: 0.0556
+Ep 7230 | Reward: -573.25 | Loss: -0.0143 | EntCoef: 0.0554
+Ep 7240 | Reward: -486.50 | Loss: 0.0576 | EntCoef: 0.0552
+Ep 7250 | Reward: -534.00 | Loss: -0.0342 | EntCoef: 0.0550
+Ep 7260 | Reward: -521.25 | Loss: -0.0714 | EntCoef: 0.0548
+Ep 7270 | Reward: -491.50 | Loss: -0.0492 | EntCoef: 0.0546
+Ep 7280 | Reward: -513.50 | Loss: -0.0141 | EntCoef: 0.0544
+Ep 7290 | Reward: -444.25 | Loss: -0.0483 | EntCoef: 0.0542
+Ep 7300 | Reward: -538.25 | Loss: 0.0372 | EntCoef: 0.0540
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1076.20 (best: 975.50)
+Ep 7310 | Reward: -509.75 | Loss: -0.0748 | EntCoef: 0.0538
+Ep 7320 | Reward: -460.00 | Loss: -0.0544 | EntCoef: 0.0536
+Ep 7330 | Reward: -504.25 | Loss: 0.1073 | EntCoef: 0.0534
+Ep 7340 | Reward: -387.00 | Loss: -0.0914 | EntCoef: 0.0532
+Ep 7350 | Reward: -541.50 | Loss: -0.0684 | EntCoef: 0.0530
+Ep 7360 | Reward: -467.50 | Loss: 0.0980 | EntCoef: 0.0528
+Ep 7370 | Reward: -492.50 | Loss: -0.0151 | EntCoef: 0.0526
+Ep 7380 | Reward: -435.25 | Loss: -0.0123 | EntCoef: 0.0524
+Ep 7390 | Reward: -541.25 | Loss: 0.0686 | EntCoef: 0.0522
+Ep 7400 | Reward: -464.25 | Loss: 0.0218 | EntCoef: 0.0520
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1053.20 (best: 975.50)
+Ep 7410 | Reward: -548.50 | Loss: -0.0986 | EntCoef: 0.0518
+Ep 7420 | Reward: -491.50 | Loss: -0.0113 | EntCoef: 0.0516
+Ep 7430 | Reward: -418.75 | Loss: -0.0875 | EntCoef: 0.0514
+Ep 7440 | Reward: -575.25 | Loss: 0.0370 | EntCoef: 0.0512
+Ep 7450 | Reward: -521.50 | Loss: -0.0775 | EntCoef: 0.0510
+Ep 7460 | Reward: -524.75 | Loss: -0.0160 | EntCoef: 0.0508
+Ep 7470 | Reward: -522.75 | Loss: -0.0145 | EntCoef: 0.0506
+Ep 7480 | Reward: -549.00 | Loss: 0.0138 | EntCoef: 0.0504
+Ep 7490 | Reward: -480.50 | Loss: -0.0186 | EntCoef: 0.0502
+Ep 7500 | Reward: -492.25 | Loss: -0.0058 | EntCoef: 0.0500
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1008.80 (best: 975.50)
+Ep 7510 | Reward: -432.25 | Loss: 0.0258 | EntCoef: 0.0498
+Ep 7520 | Reward: -494.75 | Loss: 0.0340 | EntCoef: 0.0496
+Ep 7530 | Reward: -479.75 | Loss: -0.0169 | EntCoef: 0.0494
+Ep 7540 | Reward: -501.00 | Loss: -0.0072 | EntCoef: 0.0492
+Ep 7550 | Reward: -587.25 | Loss: 0.1666 | EntCoef: 0.0490
+Ep 7560 | Reward: -471.25 | Loss: -0.0085 | EntCoef: 0.0488
+Ep 7570 | Reward: -543.75 | Loss: 0.0394 | EntCoef: 0.0486
+Ep 7580 | Reward: -504.25 | Loss: -0.0283 | EntCoef: 0.0484
+Ep 7590 | Reward: -464.25 | Loss: -0.0363 | EntCoef: 0.0482
+Ep 7600 | Reward: -492.00 | Loss: 0.0688 | EntCoef: 0.0480
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1063.00 (best: 975.50)
+Ep 7610 | Reward: -460.50 | Loss: 0.0390 | EntCoef: 0.0478
+Ep 7620 | Reward: -458.00 | Loss: 0.1548 | EntCoef: 0.0476
+Ep 7630 | Reward: -546.25 | Loss: -0.0468 | EntCoef: 0.0474
+Ep 7640 | Reward: -540.25 | Loss: 0.0492 | EntCoef: 0.0472
+Ep 7650 | Reward: -534.75 | Loss: -0.0412 | EntCoef: 0.0470
+Ep 7660 | Reward: -466.75 | Loss: 0.0005 | EntCoef: 0.0468
+Ep 7670 | Reward: -409.25 | Loss: -0.0701 | EntCoef: 0.0466
+Ep 7680 | Reward: -552.25 | Loss: 0.0372 | EntCoef: 0.0464
+Ep 7690 | Reward: -552.75 | Loss: -0.0099 | EntCoef: 0.0462
+Ep 7700 | Reward: -501.75 | Loss: 0.0871 | EntCoef: 0.0460
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1042.50 (best: 975.50)
+Ep 7710 | Reward: -467.50 | Loss: 0.0079 | EntCoef: 0.0458
+Ep 7720 | Reward: -518.75 | Loss: 0.0655 | EntCoef: 0.0456
+Ep 7730 | Reward: -458.75 | Loss: 0.0241 | EntCoef: 0.0454
+Ep 7740 | Reward: -555.25 | Loss: 0.0243 | EntCoef: 0.0452
+Ep 7750 | Reward: -547.25 | Loss: -0.0797 | EntCoef: 0.0450
+Ep 7760 | Reward: -438.50 | Loss: -0.0044 | EntCoef: 0.0448
+Ep 7770 | Reward: -483.00 | Loss: 0.0215 | EntCoef: 0.0446
+Ep 7780 | Reward: -485.75 | Loss: -0.0171 | EntCoef: 0.0444
+Ep 7790 | Reward: -590.75 | Loss: 0.0294 | EntCoef: 0.0442
+Ep 7800 | Reward: -456.25 | Loss: 0.1888 | EntCoef: 0.0440
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1066.80 (best: 975.50)
+Ep 7810 | Reward: -483.00 | Loss: -0.0209 | EntCoef: 0.0438
+Ep 7820 | Reward: -552.75 | Loss: 0.0895 | EntCoef: 0.0436
+Ep 7830 | Reward: -392.00 | Loss: 0.0913 | EntCoef: 0.0434
+Ep 7840 | Reward: -443.50 | Loss: 0.0044 | EntCoef: 0.0432
+Ep 7850 | Reward: -503.50 | Loss: 0.0375 | EntCoef: 0.0430
+Ep 7860 | Reward: -460.50 | Loss: 0.0165 | EntCoef: 0.0428
+Ep 7870 | Reward: -523.50 | Loss: 0.0078 | EntCoef: 0.0426
+Ep 7880 | Reward: -406.50 | Loss: 0.0454 | EntCoef: 0.0424
+Ep 7890 | Reward: -576.25 | Loss: -0.0067 | EntCoef: 0.0422
+Ep 7900 | Reward: -493.75 | Loss: 0.0499 | EntCoef: 0.0420
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1034.90 (best: 975.50)
+Ep 7910 | Reward: -521.75 | Loss: 0.0300 | EntCoef: 0.0418
+Ep 7920 | Reward: -431.50 | Loss: -0.0612 | EntCoef: 0.0416
+Ep 7930 | Reward: -518.75 | Loss: 0.3133 | EntCoef: 0.0414
+Ep 7940 | Reward: -378.25 | Loss: 0.0463 | EntCoef: 0.0412
+Ep 7950 | Reward: -421.75 | Loss: 0.0341 | EntCoef: 0.0410
+Ep 7960 | Reward: -474.50 | Loss: 0.0039 | EntCoef: 0.0408
+Ep 7970 | Reward: -360.50 | Loss: 0.0816 | EntCoef: 0.0406
+Ep 7980 | Reward: -537.75 | Loss: 0.0959 | EntCoef: 0.0404
+Ep 7990 | Reward: -518.75 | Loss: 0.0154 | EntCoef: 0.0402
+Ep 8000 | Reward: -529.75 | Loss: 0.0528 | EntCoef: 0.0400
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1060.60 (best: 975.50)
+Ep 8010 | Reward: -470.00 | Loss: 0.0402 | EntCoef: 0.0398
+Ep 8020 | Reward: -510.25 | Loss: 0.0491 | EntCoef: 0.0396
+Ep 8030 | Reward: -479.00 | Loss: -0.0476 | EntCoef: 0.0394
+Ep 8040 | Reward: -510.50 | Loss: 0.0023 | EntCoef: 0.0392
+Ep 8050 | Reward: -548.75 | Loss: 0.0674 | EntCoef: 0.0390
+Ep 8060 | Reward: -428.25 | Loss: 0.0996 | EntCoef: 0.0388
+Ep 8070 | Reward: -650.50 | Loss: -0.0215 | EntCoef: 0.0386
+Ep 8080 | Reward: -480.75 | Loss: 0.0216 | EntCoef: 0.0384
+Ep 8090 | Reward: -580.00 | Loss: -0.0015 | EntCoef: 0.0382
+Ep 8100 | Reward: -505.25 | Loss: 0.0328 | EntCoef: 0.0380
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1068.00 (best: 975.50)
+Ep 8110 | Reward: -479.25 | Loss: 0.1003 | EntCoef: 0.0378
+Ep 8120 | Reward: -471.00 | Loss: -0.0106 | EntCoef: 0.0376
+Ep 8130 | Reward: -559.00 | Loss: 0.0119 | EntCoef: 0.0374
+Ep 8140 | Reward: -544.50 | Loss: 0.0322 | EntCoef: 0.0372
+Ep 8150 | Reward: -520.25 | Loss: -0.0303 | EntCoef: 0.0370
+Ep 8160 | Reward: -509.50 | Loss: 0.1178 | EntCoef: 0.0368
+Ep 8170 | Reward: -509.25 | Loss: 0.0537 | EntCoef: 0.0366
+Ep 8180 | Reward: -504.00 | Loss: 0.0733 | EntCoef: 0.0364
+Ep 8190 | Reward: -476.75 | Loss: 0.0231 | EntCoef: 0.0362
+Ep 8200 | Reward: -518.50 | Loss: 0.0405 | EntCoef: 0.0360
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1058.90 (best: 975.50)
+Ep 8210 | Reward: -515.25 | Loss: 0.0221 | EntCoef: 0.0358
+Ep 8220 | Reward: -427.00 | Loss: -0.0434 | EntCoef: 0.0356
+Ep 8230 | Reward: -494.50 | Loss: 0.0404 | EntCoef: 0.0354
+Ep 8240 | Reward: -503.25 | Loss: 0.0248 | EntCoef: 0.0352
+Ep 8250 | Reward: -468.00 | Loss: 0.0983 | EntCoef: 0.0350
+Ep 8260 | Reward: -486.00 | Loss: 0.0694 | EntCoef: 0.0348
+Ep 8270 | Reward: -515.25 | Loss: 0.0142 | EntCoef: 0.0346
+Ep 8280 | Reward: -594.50 | Loss: 0.0586 | EntCoef: 0.0344
+Ep 8290 | Reward: -555.75 | Loss: -0.0175 | EntCoef: 0.0342
+Ep 8300 | Reward: -515.50 | Loss: 0.0693 | EntCoef: 0.0340
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1058.00 (best: 975.50)
+Ep 8310 | Reward: -518.25 | Loss: -0.0268 | EntCoef: 0.0338
+Ep 8320 | Reward: -438.75 | Loss: 0.0159 | EntCoef: 0.0336
+Ep 8330 | Reward: -490.50 | Loss: 0.0844 | EntCoef: 0.0334
+Ep 8340 | Reward: -515.25 | Loss: 0.1257 | EntCoef: 0.0332
+Ep 8350 | Reward: -426.50 | Loss: 0.0526 | EntCoef: 0.0330
+Ep 8360 | Reward: -528.75 | Loss: 0.0708 | EntCoef: 0.0328
+Ep 8370 | Reward: -505.25 | Loss: 0.0211 | EntCoef: 0.0326
+Ep 8380 | Reward: -489.75 | Loss: 0.0087 | EntCoef: 0.0324
+Ep 8390 | Reward: -477.00 | Loss: 0.0343 | EntCoef: 0.0322
+Ep 8400 | Reward: -520.25 | Loss: -0.0104 | EntCoef: 0.0320
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1063.80 (best: 975.50)
+Ep 8410 | Reward: -502.25 | Loss: 0.0549 | EntCoef: 0.0318
+Ep 8420 | Reward: -574.25 | Loss: -0.0371 | EntCoef: 0.0316
+Ep 8430 | Reward: -370.00 | Loss: 0.0007 | EntCoef: 0.0314
+Ep 8440 | Reward: -462.50 | Loss: 0.0391 | EntCoef: 0.0312
+Ep 8450 | Reward: -552.25 | Loss: 0.0392 | EntCoef: 0.0310
+Ep 8460 | Reward: -470.75 | Loss: 0.0804 | EntCoef: 0.0308
+Ep 8470 | Reward: -507.00 | Loss: 0.0881 | EntCoef: 0.0306
+Ep 8480 | Reward: -538.75 | Loss: 0.0224 | EntCoef: 0.0304
+Ep 8490 | Reward: -421.25 | Loss: 0.0170 | EntCoef: 0.0302
+Ep 8500 | Reward: -572.25 | Loss: -0.0082 | EntCoef: 0.0300
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1045.00 (best: 975.50)
+Ep 8510 | Reward: -581.75 | Loss: 0.0532 | EntCoef: 0.0298
+Ep 8520 | Reward: -455.25 | Loss: -0.0041 | EntCoef: 0.0296
+Ep 8530 | Reward: -480.00 | Loss: 0.0565 | EntCoef: 0.0294
+Ep 8540 | Reward: -405.00 | Loss: 0.0783 | EntCoef: 0.0292
+Ep 8550 | Reward: -527.25 | Loss: -0.0244 | EntCoef: 0.0290
+Ep 8560 | Reward: -576.25 | Loss: -0.0166 | EntCoef: 0.0288
+Ep 8570 | Reward: -494.25 | Loss: 0.0026 | EntCoef: 0.0286
+Ep 8580 | Reward: -452.25 | Loss: -0.0301 | EntCoef: 0.0284
+Ep 8590 | Reward: -464.75 | Loss: 0.0704 | EntCoef: 0.0282
+Ep 8600 | Reward: -478.25 | Loss: 0.0081 | EntCoef: 0.0280
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1025.60 (best: 975.50)
+Ep 8610 | Reward: -493.75 | Loss: 0.0967 | EntCoef: 0.0278
+Ep 8620 | Reward: -404.00 | Loss: 0.0608 | EntCoef: 0.0276
+Ep 8630 | Reward: -473.50 | Loss: 0.0494 | EntCoef: 0.0274
+Ep 8640 | Reward: -458.75 | Loss: 0.0161 | EntCoef: 0.0272
+Ep 8650 | Reward: -459.75 | Loss: 0.0302 | EntCoef: 0.0270
+Ep 8660 | Reward: -508.75 | Loss: 0.0765 | EntCoef: 0.0268
+Ep 8670 | Reward: -474.25 | Loss: 0.1035 | EntCoef: 0.0266
+Ep 8680 | Reward: -574.00 | Loss: -0.0476 | EntCoef: 0.0264
+Ep 8690 | Reward: -477.75 | Loss: -0.0073 | EntCoef: 0.0262
+Ep 8700 | Reward: -496.50 | Loss: 0.0085 | EntCoef: 0.0260
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1049.70 (best: 975.50)
+Ep 8710 | Reward: -508.00 | Loss: 0.0973 | EntCoef: 0.0258
+Ep 8720 | Reward: -491.25 | Loss: 0.0884 | EntCoef: 0.0256
+Ep 8730 | Reward: -466.25 | Loss: 0.0393 | EntCoef: 0.0254
+Ep 8740 | Reward: -531.75 | Loss: -0.0163 | EntCoef: 0.0252
+Ep 8750 | Reward: -461.75 | Loss: 0.0288 | EntCoef: 0.0250
+Ep 8760 | Reward: -534.75 | Loss: 0.0454 | EntCoef: 0.0248
+Ep 8770 | Reward: -534.00 | Loss: -0.0174 | EntCoef: 0.0246
+Ep 8780 | Reward: -557.00 | Loss: 0.0586 | EntCoef: 0.0244
+Ep 8790 | Reward: -505.75 | Loss: 0.0057 | EntCoef: 0.0242
+Ep 8800 | Reward: -430.00 | Loss: 0.0395 | EntCoef: 0.0240
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1024.60 (best: 975.50)
+Ep 8810 | Reward: -482.75 | Loss: 0.0974 | EntCoef: 0.0238
+Ep 8820 | Reward: -496.75 | Loss: 0.0062 | EntCoef: 0.0236
+Ep 8830 | Reward: -559.25 | Loss: 0.0851 | EntCoef: 0.0234
+Ep 8840 | Reward: -486.75 | Loss: 0.1086 | EntCoef: 0.0232
+Ep 8850 | Reward: -441.50 | Loss: 0.0144 | EntCoef: 0.0230
+Ep 8860 | Reward: -507.00 | Loss: 0.0961 | EntCoef: 0.0228
+Ep 8870 | Reward: -408.50 | Loss: 0.0766 | EntCoef: 0.0226
+Ep 8880 | Reward: -536.75 | Loss: 0.0662 | EntCoef: 0.0224
+Ep 8890 | Reward: -449.00 | Loss: 0.0947 | EntCoef: 0.0222
+Ep 8900 | Reward: -440.00 | Loss: 0.0331 | EntCoef: 0.0220
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1030.00 (best: 975.50)
+Ep 8910 | Reward: -510.50 | Loss: 0.0507 | EntCoef: 0.0218
+Ep 8920 | Reward: -437.75 | Loss: 0.0868 | EntCoef: 0.0216
+Ep 8930 | Reward: -566.50 | Loss: -0.0026 | EntCoef: 0.0214
+Ep 8940 | Reward: -444.50 | Loss: 0.0085 | EntCoef: 0.0212
+Ep 8950 | Reward: -529.50 | Loss: 0.2743 | EntCoef: 0.0210
+Ep 8960 | Reward: -483.00 | Loss: 0.0108 | EntCoef: 0.0208
+Ep 8970 | Reward: -487.75 | Loss: 0.0244 | EntCoef: 0.0206
+Ep 8980 | Reward: -462.00 | Loss: 0.0464 | EntCoef: 0.0204
+Ep 8990 | Reward: -477.00 | Loss: 0.0867 | EntCoef: 0.0202
+Ep 9000 | Reward: -487.00 | Loss: 0.0619 | EntCoef: 0.0200
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1023.00 (best: 975.50)
+Ep 9010 | Reward: -475.50 | Loss: 0.0330 | EntCoef: 0.0198
+Ep 9020 | Reward: -462.50 | Loss: 0.0612 | EntCoef: 0.0196
+Ep 9030 | Reward: -493.50 | Loss: 0.0176 | EntCoef: 0.0194
+Ep 9040 | Reward: -495.50 | Loss: 0.1259 | EntCoef: 0.0192
+Ep 9050 | Reward: -543.00 | Loss: -0.0098 | EntCoef: 0.0190
+Ep 9060 | Reward: -463.00 | Loss: 0.0276 | EntCoef: 0.0188
+Ep 9070 | Reward: -480.25 | Loss: 0.0398 | EntCoef: 0.0186
+Ep 9080 | Reward: -495.75 | Loss: 0.0790 | EntCoef: 0.0184
+Ep 9090 | Reward: -452.50 | Loss: 0.0825 | EntCoef: 0.0182
+Ep 9100 | Reward: -505.75 | Loss: 0.0789 | EntCoef: 0.0180
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1047.20 (best: 975.50)
+Ep 9110 | Reward: -511.75 | Loss: 0.0921 | EntCoef: 0.0178
+Ep 9120 | Reward: -389.00 | Loss: 0.0661 | EntCoef: 0.0176
+Ep 9130 | Reward: -618.50 | Loss: 0.0816 | EntCoef: 0.0174
+Ep 9140 | Reward: -648.50 | Loss: 0.0958 | EntCoef: 0.0172
+Ep 9150 | Reward: -450.00 | Loss: 0.0366 | EntCoef: 0.0170
+Ep 9160 | Reward: -507.50 | Loss: 0.0511 | EntCoef: 0.0168
+Ep 9170 | Reward: -401.75 | Loss: 0.0470 | EntCoef: 0.0166
+Ep 9180 | Reward: -547.75 | Loss: 0.0875 | EntCoef: 0.0164
+Ep 9190 | Reward: -487.50 | Loss: 0.0995 | EntCoef: 0.0162
+Ep 9200 | Reward: -438.25 | Loss: 0.0167 | EntCoef: 0.0160
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1021.10 (best: 975.50)
+Ep 9210 | Reward: -436.50 | Loss: 0.0626 | EntCoef: 0.0158
+Ep 9220 | Reward: -511.50 | Loss: 0.0368 | EntCoef: 0.0156
+Ep 9230 | Reward: -537.00 | Loss: 0.0550 | EntCoef: 0.0154
+Ep 9240 | Reward: -534.00 | Loss: 0.1416 | EntCoef: 0.0152
+Ep 9250 | Reward: -440.75 | Loss: 0.0820 | EntCoef: 0.0150
+Ep 9260 | Reward: -481.25 | Loss: 0.2246 | EntCoef: 0.0148
+Ep 9270 | Reward: -572.25 | Loss: 0.0452 | EntCoef: 0.0146
+Ep 9280 | Reward: -497.00 | Loss: 0.0327 | EntCoef: 0.0144
+Ep 9290 | Reward: -597.25 | Loss: 0.0334 | EntCoef: 0.0142
+Ep 9300 | Reward: -540.75 | Loss: 0.0666 | EntCoef: 0.0140
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1004.60 (best: 975.50)
+Ep 9310 | Reward: -533.25 | Loss: 0.0274 | EntCoef: 0.0138
+Ep 9320 | Reward: -403.25 | Loss: 0.1889 | EntCoef: 0.0136
+Ep 9330 | Reward: -426.00 | Loss: 0.0248 | EntCoef: 0.0134
+Ep 9340 | Reward: -574.75 | Loss: 0.0262 | EntCoef: 0.0132
+Ep 9350 | Reward: -430.00 | Loss: 0.1451 | EntCoef: 0.0130
+Ep 9360 | Reward: -517.25 | Loss: 0.3503 | EntCoef: 0.0128
+Ep 9370 | Reward: -491.75 | Loss: 0.0731 | EntCoef: 0.0126
+Ep 9380 | Reward: -502.00 | Loss: 0.0924 | EntCoef: 0.0124
+Ep 9390 | Reward: -440.25 | Loss: 0.0579 | EntCoef: 0.0122
+Ep 9400 | Reward: -424.00 | Loss: 0.1877 | EntCoef: 0.0120
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1018.80 (best: 975.50)
+Ep 9410 | Reward: -437.25 | Loss: 0.1446 | EntCoef: 0.0118
+Ep 9420 | Reward: -453.50 | Loss: 0.0255 | EntCoef: 0.0116
+Ep 9430 | Reward: -553.25 | Loss: 0.0675 | EntCoef: 0.0114
+Ep 9440 | Reward: -384.25 | Loss: 0.0041 | EntCoef: 0.0112
+Ep 9450 | Reward: -473.00 | Loss: 0.0914 | EntCoef: 0.0110
+Ep 9460 | Reward: -462.25 | Loss: -0.0143 | EntCoef: 0.0108
+Ep 9470 | Reward: -528.25 | Loss: 0.0666 | EntCoef: 0.0106
+Ep 9480 | Reward: -427.50 | Loss: 0.0821 | EntCoef: 0.0104
+Ep 9490 | Reward: -524.75 | Loss: 0.1284 | EntCoef: 0.0102
+Ep 9500 | Reward: -433.25 | Loss: 0.1375 | EntCoef: 0.0100
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1012.80 (best: 975.50)
+Ep 9510 | Reward: -534.75 | Loss: 0.2349 | EntCoef: 0.0098
+Ep 9520 | Reward: -510.75 | Loss: 0.0410 | EntCoef: 0.0096
+Ep 9530 | Reward: -488.50 | Loss: 0.0792 | EntCoef: 0.0094
+Ep 9540 | Reward: -533.50 | Loss: 0.0857 | EntCoef: 0.0092
+Ep 9550 | Reward: -469.00 | Loss: 0.0326 | EntCoef: 0.0090
+Ep 9560 | Reward: -519.50 | Loss: 0.0813 | EntCoef: 0.0088
+Ep 9570 | Reward: -521.25 | Loss: 0.1693 | EntCoef: 0.0086
+Ep 9580 | Reward: -466.00 | Loss: 0.0630 | EntCoef: 0.0084
+Ep 9590 | Reward: -603.25 | Loss: 0.1446 | EntCoef: 0.0082
+Ep 9600 | Reward: -412.50 | Loss: 0.0121 | EntCoef: 0.0080
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1014.90 (best: 975.50)
+Ep 9610 | Reward: -501.25 | Loss: 0.0903 | EntCoef: 0.0078
+Ep 9620 | Reward: -458.50 | Loss: 0.0780 | EntCoef: 0.0076
+Ep 9630 | Reward: -521.50 | Loss: 0.0745 | EntCoef: 0.0074
+Ep 9640 | Reward: -489.75 | Loss: 0.0752 | EntCoef: 0.0072
+Ep 9650 | Reward: -530.25 | Loss: 0.0704 | EntCoef: 0.0070
+Ep 9660 | Reward: -498.75 | Loss: 0.0243 | EntCoef: 0.0068
+Ep 9670 | Reward: -377.25 | Loss: 0.1051 | EntCoef: 0.0066
+Ep 9680 | Reward: -529.50 | Loss: 0.0725 | EntCoef: 0.0064
+Ep 9690 | Reward: -457.75 | Loss: 0.1592 | EntCoef: 0.0062
+Ep 9700 | Reward: -574.00 | Loss: 0.0274 | EntCoef: 0.0060
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 991.80 (best: 975.50)
+Ep 9710 | Reward: -436.75 | Loss: 0.0664 | EntCoef: 0.0058
+Ep 9720 | Reward: -534.75 | Loss: 0.0743 | EntCoef: 0.0056
+Ep 9730 | Reward: -477.75 | Loss: 0.0976 | EntCoef: 0.0054
+Ep 9740 | Reward: -339.25 | Loss: 0.1071 | EntCoef: 0.0052
+Ep 9750 | Reward: -481.50 | Loss: 0.0512 | EntCoef: 0.0050
+Ep 9760 | Reward: -516.00 | Loss: 0.1723 | EntCoef: 0.0048
+Ep 9770 | Reward: -481.75 | Loss: 0.0736 | EntCoef: 0.0046
+Ep 9780 | Reward: -573.50 | Loss: 0.1235 | EntCoef: 0.0044
+Ep 9790 | Reward: -467.25 | Loss: 0.1662 | EntCoef: 0.0042
+Ep 9800 | Reward: -501.50 | Loss: 0.0963 | EntCoef: 0.0040
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 998.10 (best: 975.50)
+Ep 9810 | Reward: -497.50 | Loss: 0.0890 | EntCoef: 0.0038
+Ep 9820 | Reward: -469.25 | Loss: 0.0440 | EntCoef: 0.0036
+Ep 9830 | Reward: -474.00 | Loss: 0.0868 | EntCoef: 0.0034
+Ep 9840 | Reward: -543.50 | Loss: 0.0603 | EntCoef: 0.0032
+Ep 9850 | Reward: -531.50 | Loss: 0.0365 | EntCoef: 0.0030
+Ep 9860 | Reward: -437.50 | Loss: 0.0581 | EntCoef: 0.0028
+Ep 9870 | Reward: -489.25 | Loss: 0.1544 | EntCoef: 0.0026
+Ep 9880 | Reward: -589.50 | Loss: 0.0824 | EntCoef: 0.0024
+Ep 9890 | Reward: -389.25 | Loss: 0.1176 | EntCoef: 0.0022
+Ep 9900 | Reward: -486.25 | Loss: 0.0855 | EntCoef: 0.0020
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 1003.70 (best: 975.50)
+Ep 9910 | Reward: -510.00 | Loss: 0.1471 | EntCoef: 0.0018
+Ep 9920 | Reward: -493.75 | Loss: 0.1370 | EntCoef: 0.0016
+Ep 9930 | Reward: -444.50 | Loss: 0.0789 | EntCoef: 0.0014
+Ep 9940 | Reward: -455.25 | Loss: 0.0573 | EntCoef: 0.0012
+Ep 9950 | Reward: -609.00 | Loss: 0.0261 | EntCoef: 0.0010
+Ep 9960 | Reward: -457.50 | Loss: 0.0797 | EntCoef: 0.0010
+Ep 9970 | Reward: -457.50 | Loss: 0.1121 | EntCoef: 0.0010
+Ep 9980 | Reward: -532.50 | Loss: 0.0701 | EntCoef: 0.0010
+Ep 9990 | Reward: -480.50 | Loss: 0.0242 | EntCoef: 0.0010
+Ep 10000 | Reward: -390.50 | Loss: 0.0696 | EntCoef: 0.0010
+[Validation] Instance 1/10
+[Validation] Instance 2/10
+[Validation] Instance 3/10
+[Validation] Instance 4/10
+[Validation] Instance 5/10
+[Validation] Instance 6/10
+[Validation] Instance 7/10
+[Validation] Instance 8/10
+[Validation] Instance 9/10
+[Validation] Instance 10/10
+>>> VALIDATION: 988.70 (best: 975.50)
