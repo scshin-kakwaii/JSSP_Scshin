@@ -4,8 +4,8 @@ from uniform_instance_gen import uni_instance_gen
 
 # --- CẤU HÌNH KÍCH THƯỚC BÀI TOÁN ---
 # Bạn sửa 2 số này tùy theo bài bạn muốn chạy (6x6 hay 20x10)
-j = 6  # Số Jobs
-m = 6   # Số Machines
+j = 15  # Số Jobs
+m = 15   # Số Machines
 
 l = 1
 h = 99

@@ -15,11 +15,11 @@ from agent_utils import greedy_select_action
 # CẤU HÌNH (SỬA TẠI ĐÂY)
 # ==========================================
 # 1. Kích thước bài toán (Phải khớp với Model đã train)
-N_J = 6
-N_M = 6
+N_J = 15
+N_M = 15
 
 # 2. Tên file Model (File .pth tốt nhất bạn đã lưu)
-MODEL_FILE = '6_6_Best.pth' 
+MODEL_FILE = '15_15_Best.pth' 
 
 # 3. File dữ liệu (Đảm bảo file này tồn tại trong folder DataGen)
 DATA_FILE = f'DataGen/generatedData{N_J}_{N_M}_Seed200.npy'
