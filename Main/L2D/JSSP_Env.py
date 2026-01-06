@@ -16,6 +16,10 @@ class SJSSP(gym.Env, EzPickle):
         self.number_of_jobs = n_j
         self.number_of_machines = n_m
         self.number_of_tasks = n_j * n_m
+        # --- THÊM DÒNG NÀY ---
+        # Tính tỉ lệ scale dựa trên tổng số task. 
+        # Ví dụ 6x6=36, 20x20=400.
+        self.reward_scale = float(n_j * n_m)
         self.action_space = spaces.Discrete(8)
         self.rule_fea_dim = 11
 
@@ -136,8 +140,9 @@ class SJSSP(gym.Env, EzPickle):
             if flag and precd != action and succd != action:
                 self.adj[succd, precd] = 0
 
-        # --- FIX: REWARD SCALING (/ 100.0) ---
-        reward = - (self.LBs.max() - self.max_endTime) / 100.0
+        # --- SỬA DÒNG TÍNH REWARD ---
+        # Thay vì chia cho 100.0, chia cho self.reward_scale
+        reward = - (self.LBs.max() - self.max_endTime) / self.reward_scale
         # -------------------------------------
         
         if reward == 0:

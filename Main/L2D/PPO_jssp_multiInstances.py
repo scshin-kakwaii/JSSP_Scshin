@@ -126,9 +126,20 @@ def main():
         frac = 1.0 - (i_update - 1.0) / configs.max_updates
         curr_ent = max(configs.entloss_coef * frac, 0.001)
         
-        # LR Decay
-        curr_lr = 2.5e-5 if i_update < 4000 else (1e-5 if i_update < 8000 else 5e-6)
-        for param_group in ppo.optimizer.param_groups: param_group['lr'] = curr_lr
+        # --- CHIẾN THUẬT LR "PHANH GẤP" (AN TOÀN TUYỆT ĐỐI) ---
+        if i_update < 1500:
+            # Giai đoạn 1: Học bình thường để tìm đường xuống dốc
+            curr_lr = 2e-5  
+        elif i_update < 4000:
+            # Giai đoạn 2: Giảm tốc độ 10 lần để chui vào thung lũng sâu nhất
+            curr_lr = 2e-6  
+        else:
+            # Giai đoạn 3: PHANH GẤP. 
+            # Mức 5e-7 là cực nhỏ -> Model gần như ngừng học -> Không thể quên bài -> Hình chữ L
+            curr_lr = 5e-7  
+            
+        for param_group in ppo.optimizer.param_groups:
+            param_group['lr'] = curr_lr
         
         ep_rewards = [0] * configs.num_envs
         while True:
